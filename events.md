@@ -6,7 +6,7 @@ subtitle: Early career events for oceanographers
 
 ## Busan IAMAS-IACS-IAPSO Joint Assembly 2021
 
-This assembly will take place from July 18 - 23 in 2021. Stay tuned for upcoming events. 
+Due to the global Coronavirus pandemic, the status of the Joint Assembly is uncertain. Stay tuned for updates.
 
 ## 27th IUGG General Assembly, Montreal, Canada
 
