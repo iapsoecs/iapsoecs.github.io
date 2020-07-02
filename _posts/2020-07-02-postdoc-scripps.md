@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position (3 years) in La Jolla, California
+title: Postdoc position in La Jolla, California
 subtitle: Scripps Institution of Oceanography, UC San Diego
 tags: [postdoc, USA, numerical modelling, observations, waves]
 comments: false
