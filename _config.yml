@@ -26,7 +26,9 @@ navbar-links:
     - More Job Links: "career/joblinks"
     - Fellowships: "career/fellowships"
     - Cruise Opportunities: "career/cruises"
-  Events: "events"
+  Activities:
+    - Educational: "activities/educational"
+    - Past Events: "activities/past_events"
   Newsletter: "newsletter"
   Join: "joinus"
 

@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Events
-subtitle: Early career events for oceanographers
+title: Past Events
+subtitle: Previous early career events
 ---
-
-## Busan IAMAS-IACS-IAPSO Joint Assembly 2021
-
-Due to the global Coronavirus pandemic, the status of the Joint Assembly is uncertain. Stay tuned for updates.
 
 ## 27th IUGG General Assembly, Montreal, Canada
 
