@@ -5,7 +5,7 @@ subtitle: Other places to look for oceanography jobs
 ---
 
 ## Mailing lists
-* The [met-jobs mailing list](https://www.lists.rdg.ac.uk/mailman/listinfo/met-jobs) often advertises positions in oceanography, meteorology and climate. 
+* The [met-jobs mailing list](https://www.lists.rdg.ac.uk/mailman/listinfo/met-jobs) often advertises positions in oceanography, meteorology and climate.
 * The [es_jobs_net mailing list](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net) is similar to the met-jobs list.
 * The [climlist mailing list](http://climlist.wku.edu/) often advertises positions in climate research and oceanography.
 * The [cryolist mailing list](http://cryolist.org/) advertises positions related to ice, which often includes ice-ocean interactions (sea ice or land ice).

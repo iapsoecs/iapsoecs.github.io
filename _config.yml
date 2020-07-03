@@ -24,6 +24,7 @@ navbar-links:
   Jobs: "jobs"
   Career:
     - More Job Links: "joblinks"
+    - Fellowships: "fellowships/fellowships"
     - Cruise Opportunities: "cruises"
   Events: "events"
   Newsletter: "newsletter"
