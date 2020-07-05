@@ -20,7 +20,7 @@ There are hundreds of fellowship opportunities around the world available to res
 
 | Name                                                                                                                    | Length (years) | Eligibility                                        | Location of work           |
 |-------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------|----------------------------|
-| [Marie Curie Individual Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en ) | 1 or 2         | Any nationality, at least 4 yrs postdoc experience | EU or associated countries |
+| [Marie Curie Individual Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en ) | 1 or 2         | Any nationality with a PhD or at least 4 yrs research experience | EU or associated countries |
 
 ### United Kingdom
 
