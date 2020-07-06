@@ -24,5 +24,13 @@ In the framework of EU Project "PROjecTing sEa-level rise: from iCe sheets to lo
 
 We offer a 24-month position starting from 1st September 2020.
 
+It is mandatory that your application goes through the AWI system via
 
-The full announcement can be found on AWI's website, and deadline is 07. July already!
+<https://www.awi.de/en/work-study/jobs/job-offer.html>
+
+or
+
+<https://recruitingapp-5442.de.umantis.com/Vacancies/624/Description/2>
+
+
+Application deadline is by the end of Sunday, July 12 (German time)
