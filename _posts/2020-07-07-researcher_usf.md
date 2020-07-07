@@ -11,14 +11,10 @@ The College of Marine Science at the University of South Florida (USF) is seekin
 
 
 **Responsibilities include, but not limited to:**
-
--Provides design support and supervision of field sampling operations.
-
--Conducts in-lab scientific research and training of students/technicians in measurement and data processing protocols.
-
--Deploys and analyzes data from remote biogeochemical sensors on ships and autonomous platforms, collects and analyzes discrete samples for carbonate system analysis, and analyzes output from numerical models such as Earth System Models.
-
--Prepares research papers as co-author for publication in peer-reviewed journals, prepares project reports, and contributes significantly to the preparation of grant proposals.
+- Provides design support and supervision of field sampling operations.
+- Conducts in-lab scientific research and training of students/technicians in measurement and data processing protocols.
+- Deploys and analyzes data from remote biogeochemical sensors on ships and autonomous platforms, collects and analyzes discrete samples for carbonate system analysis, and analyzes output from numerical models such as Earth System Models.
+- Prepares research papers as co-author for publication in peer-reviewed journals, prepares project reports, and contributes significantly to the preparation of grant proposals.
 
 
 **Minimum Qualifications:**  This position requires a Master’s degree in a natural science related to the specific area of research and two years of research experience. Doctoral study in a directly related field may substitute for the required experience. There is no substitution of experience allowed for the Master’s degree, as that is a mandatory qualification for positions assigned to this job class.
