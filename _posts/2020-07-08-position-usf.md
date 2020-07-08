@@ -6,8 +6,10 @@ tags: [postdoc, USA, observations, chemical oceanography]
 comments: false
 ---
 
-Updated link to the position: https://gems.fastmail.usf.edu:4440/psp/gemspro-tam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=25412&PostingSeq=1
-Position Details
+Link to the position: 
+https://gems.fastmail.usf.edu:4440/psp/gemspro-tam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=25412&PostingSeq=1
+
+**Position Details**
 
 Dept Number/Name: 0-2500-000 / College of Marine Science
 
