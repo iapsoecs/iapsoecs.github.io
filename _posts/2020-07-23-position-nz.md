@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Long-term position in Ragland, New Zealand
-subtitle: MetOcean Solutions, New Zeland MetService
+subtitle: MetOcean Solutions, New Zealand MetService
 tags: [New Zealand, numerical modelling, surface waves]
 comments: false
 ---
