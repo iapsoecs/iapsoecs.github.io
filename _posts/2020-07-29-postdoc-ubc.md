@@ -13,7 +13,7 @@ Minimum Requirements: A Ph.D. in oceanography or a related field with both exper
 
 
 
-Applications, including a CV, copies of two relevant publications, and the names, e-mails and phone numbers of three referees should be sent to Dr. Susan Allen (sallen@eoas.ubc.ca)<mailto:sallen@eoas.ubc.ca)>. The application deadline is August 14, 2020 but will be extended if a suitable candidate has not been found.
+Applications, including a CV, copies of two relevant publications, and the names, e-mails and phone numbers of three referees should be sent to Dr. Susan Allen (sallen@eoas.ubc.ca). The application deadline is August 14, 2020 but will be extended if a suitable candidate has not been found.
 
 
 
