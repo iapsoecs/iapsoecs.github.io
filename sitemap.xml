@@ -16,23 +16,28 @@
 	<priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.iapsoecs.org/joblinks</loc>
+    <loc>https://www.iapsoecs.org/career/joblinks</loc>
     <lastmod>2020-01-28</lastmod>
 	<priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.iapsoecs.org/fellowships</loc>
-    <lastmod>2020-01-28</lastmod>
+    <loc>https://www.iapsoecs.org/career/fellowships</loc>
+    <lastmod>2020-07-31</lastmod>
 	<priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.iapsoecs.org/cruises</loc>
-    <lastmod>2020-01-28</lastmod>
+    <loc>https://www.iapsoecs.org/career/cruises</loc>
+    <lastmod>2020-07-31</lastmod>
 	<priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.iapsoecs.org/events</loc>
-    <lastmod>2020-03-03</lastmod>
+    <loc>https://www.iapsoecs.org/activities/past_events</loc>
+    <lastmod>2020-07-31</lastmod>
+	<priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.iapsoecs.org/activities/educational</loc>
+    <lastmod>2020-07-31</lastmod>
 	<priority>0.5</priority>
   </url>
   <url>
