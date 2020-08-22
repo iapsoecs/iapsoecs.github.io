@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position (3 years) in Lamont, USA
+title: Postdoc position (3 years) in Lamont, New Jersey
 subtitle: Lamont-Doherty Earth Observatory of Columbia University
 tags: [postdoc, USA, observations, surface pCO2, data science]
 comments: false
