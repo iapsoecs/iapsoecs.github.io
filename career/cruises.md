@@ -15,10 +15,7 @@ For each leg, we are seeking *4 students for CTD/deck operations* (typically PO 
 
 *Deadline for applications is November 15, 2020.*
 
-More details:
-
-<https://usgoship.ucsd.edu/2020/09/14/student-opportunities-to-sail-with-us-in-the-north-atlantic-ocean-a20-a22/>
-<https://usgoship.ucsd.edu/wp-content/uploads/sites/353/GO-SHIP_A20-A22_2021_Student_Opportunity.pdf>
+More details [here](https://usgoship.ucsd.edu/2020/09/14/student-opportunities-to-sail-with-us-in-the-north-atlantic-ocean-a20-a22/) and in this [pdf](<https://usgoship.ucsd.edu/wp-content/uploads/sites/353/GO-SHIP_A20-A22_2021_Student_Opportunity.pdf>) of the call.
 
 
 ## UNOLS cruise opportunities (U.S. Only)
