@@ -13,6 +13,7 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 **New cruise opportunities for students (deadline November 15, 2020):** [more information]({% link career/cruises.md %})
 
+
 ## Upcoming events
 
 ### [Busan IAMAS-IACS-IAPSO Joint Assembly 2021](http://www.baco-21.org/2021/english/main/index_en.asp)
