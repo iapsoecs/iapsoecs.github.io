@@ -11,7 +11,7 @@ Taking part in a research cruise is a great experience that should be available 
 
 US GO-SHIP will conduct two repeat hydrography sections in the **North Atlantic Ocean**: between **mid March - mid April 2021 (GO-SHIP A20)** and **mid April - mid May 2021 (A22)**.
 
-For each leg, we are seeking **4 students for CTD/deck operations** (typically PO background), **1 student to assist with chlorofluorocarbon and SF6 (CFC) analysis** (typically chemistry background), and **1 student to assist with LADCP operations**, for **a total of 12 students**.
+For each leg, the organizers are seeking **4 students for CTD/deck operations** (typically PO background), **1 student to assist with chlorofluorocarbon and SF6 (CFC) analysis** (typically chemistry background), and **1 student to assist with LADCP operations**, for **a total of 12 students**.
 
 **Deadline for applications is November 15, 2020.**
 
