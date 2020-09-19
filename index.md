@@ -18,4 +18,4 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ### [Busan IAMAS-IACS-IAPSO Joint Assembly 2021](http://www.baco-21.org/2021/english/main/index_en.asp)
 
-Due to the global Coronavirus pandemic, the status of the Joint Assembly is uncertain. Stay tuned for updates.
+Due to the global Coronavirus pandemic, the Joint Assembly will not happen in person and will likely reduce to a modest number of online keynote talks.
