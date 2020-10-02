@@ -7,7 +7,7 @@ use-site-title: true
 Taking part in a research cruise is a great experience that should be available to all oceanographers. However, news of cruise opportunities often travels by word of mouth or email lists within institutions. If you are not directly involved in a project that has upcoming cruises, you will need to talk to project PIs to see if they need more participants. Some opportunities are more widely advertised, and we have tried to compile a list of them below. 
 
 
-#### New cruise opportunities for students on US GO-SHIP cruises 2021:
+## New cruise opportunities for students on US GO-SHIP cruises 2021
 
 US GO-SHIP will conduct two repeat hydrography sections in the **North Atlantic Ocean**: between **mid March - mid April 2021 (GO-SHIP A20)** and **mid April - mid May 2021 (A22)**.
 
@@ -16,8 +16,6 @@ For each leg, the organizers are seeking **4 students for CTD/deck operations** 
 **Deadline for applications is November 15, 2020.**
 
 More details [here](https://usgoship.ucsd.edu/2020/09/14/student-opportunities-to-sail-with-us-in-the-north-atlantic-ocean-a20-a22/) and in this [pdf](<https://usgoship.ucsd.edu/wp-content/uploads/sites/353/GO-SHIP_A20-A22_2021_Student_Opportunity.pdf>) of the call.
-
-
 
 ## UNOLS cruise opportunities (U.S. Only)
 
