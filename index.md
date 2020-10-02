@@ -11,17 +11,17 @@ The International Association for the Physical Sciences of the Oceans ([IAPSO](h
 
 We envision a community that will provide networking opportunities, mentoring, conference activities and easy access to information about [jobs]({% link jobs/index.html %}), [field work opportunities]({% link career/cruises.md %}), workshops and more. Whilst doing this we will strive to promote diversity and inclusivity as actively as possible. Most recent updates from the IAPSO ECS network are published in our [newsletter]({% link newsletter.md %}).
 
-**New cruise opportunities for students (deadline November 15, 2020):** [more information]({% link career/cruises.md %})
-
-
 ## Important Updates
 
-### [Busan IAMAS-IACS-IAPSO Joint Assembly 2021](http://www.baco-21.org/2021/english/main/index_en.asp)
+### New cruise opportunities for students (deadline November 15, 2020): [more information]({% link career/cruises.md %})
 
-Due to the global Coronavirus pandemic, the Joint Assembly will not happen in person and will likely reduce to a modest number of online keynote talks. The next Assembly will be IUGG 2023, in Berlin, Germany. 
+### Nominations for the IAPSO Early Career Scientist Medals are now [open](http://iapso.iugg.org/awards-and-honors/early-career-scientist-medal.html)
 
-### Nominations for the IAPSO Early Career Scientist Medals are now open
-
-This award honours Early Career Scientists for their outstanding research in the physical or chemical sciences of the oceans, and for their cooperation in international research. The IAPSO Early Career Scientist Medals, one for physical ocean science and one for chemical ocean science are presented by the IAPSO President, every two years, at the biannual IAPSO Assembly, where the Awardees are expected to give a talk on a scientific topic of their choice.
+This award honours Early Career Scientists for their outstanding research in the physical or chemical sciences of the oceans, and for their cooperation in international research. The IAPSO Early Career Scientist Medals, one for physical ocean science and one for chemical ocean science are presented by the IAPSO President, every two years, at the biannual IAPSO Assembly, where the Awardees are expected to give a talk on a scientific topic of their choice. The next assemly is likely to be held virtually (see below).
 
 Please find the procedure and requirements for nomination on the [IAPSO website](http://iapso.iugg.org/awards-and-honors/early-career-scientist-medal.html). 
+
+
+### Busan IAMAS-IACS-IAPSO [Joint Assembly 2021](http://www.baco-21.org/2021/english/main/index_en.asp)
+
+Due to the global Coronavirus pandemic, the Joint Assembly will not happen in person and will likely reduce to a modest number of online keynote talks. The next Assembly will be IUGG 2023, in Berlin, Germany. 
