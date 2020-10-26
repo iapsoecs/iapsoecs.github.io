@@ -13,7 +13,7 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
-### Learn more about marine science communication (registration deadline November 9, 2020): [more information]({% link https://commocean.org %})
+### Learn more about marine science communication (registration deadline November 9, 2020): [more information](https://commocean.org)
 
 ### New cruise opportunities for students (deadline November 15, 2020): [more information]({% link career/cruises.md %})
 
