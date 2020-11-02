@@ -8,10 +8,22 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 
 ## Contents
 
+* [Issue 5, November 2020](#november-2020-issue-5)
 * [Issue 4, June 2020](#june-2020-issue-4)
 * [Issue 3, April 2020](#april-2020-issue-3)
 * [Issue 2, November 2019](#november-2019-issue-2)
 * [Issue 1, July 2019](#july-2020-issue-1)
+
+
+### November 2020 Issue 5
+<div class="news-container">
+  <a title="IAPSO ECS Newsletter, 2020, 5" href="/uploads/newsletter/iapsoecs_newsletter_2020_5.pdf" target='_blank'>
+  <img src="/uploads/newsletter/iapsoecs_newsletter_2020_5_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2020, 5" class="news-image">
+  <div class="news-overlay">
+    <div class="news-text">Click to download pdf (922 KB)</div>
+  </div>
+  </a>
+</div>
 
 
 ### June 2020 Issue 4
