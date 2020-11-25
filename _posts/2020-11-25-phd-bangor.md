@@ -17,4 +17,6 @@ Please contact Yueng Dyern Lenn at y.lenn@bangor.ac.uk or Jan Hiddink j.hiddink@
 
 To apply: http://www.envision-dtp.org/projects/apply/
 
+Closing date: 13 January 2021
+
 For details: http://www.envision-dtp.org/2020/impact-of-warm-salty-indian-ocean-water-leakage-into-the-south-atlantic-on-the-benguela-upwelling-ecosystem-over-the-last-40-years/
