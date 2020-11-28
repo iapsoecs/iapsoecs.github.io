@@ -8,7 +8,7 @@ bigimg:
 
 ## Objectives
 
-* **Promote diversity, equality and inclusion**
+* **Promote diversity, equity and inclusion**
     - Promote diversity as actively as possible and create awareness of the associated gaps/challenges and discrimination that currently exist within the scientific community.
     
 * **Connect with organisations**
