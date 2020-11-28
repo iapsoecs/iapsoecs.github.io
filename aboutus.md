@@ -8,17 +8,18 @@ bigimg:
 
 ## Objectives
 
-* **Liaise with the Executive committee**
-    - Provide advice from the Early Career Network to the IAPSO Executive Committee and communicate key agenda from the IAPSO directive back to the IAPSO Early Career Scientist Network.
+* **Promote diversity, equality and inclusion**
+    - Promote diversity as actively as possible and create awareness of the associated gaps/challenges and discrimination that currently exist within the scientific community.
     
 * **Connect with organisations**
     - Maximise the impact and connectivity of the IAPSO Early Career Network by liasing with other national and international networks.
     
+* **Liaise with the Executive committee**
+    - Provide advice from the Early Career Network to the IAPSO Executive Committee and communicate key agenda from the IAPSO directive back to the IAPSO Early Career Scientist Network.
+    
 * **Organise events**
     - Organise early career events at biannual IAPSO assemblies that may include mentoring, outreach activities and networking between early career scientists and senior researchers. 
     
-* **Promote diversity, equality and inclusion**
-    - Promote diversity as actively as possible and create awareness of the associated gaps/challenges and discrimination that currently exist within the scientific community.
 
 ## Committee members
 
