@@ -15,6 +15,11 @@ subtitle: Other places to look for oceanography jobs
 * The [APECS job board](https://www.apecs.is/career-resources/job-board.html) lists positions in polar sciences, including polar oceanography.
 
 ## Institutional websites
-There are many, but some examples include:
+
+Don't forget to check the websites of individual institutions and universities since some ads might not reach the lists above.
+
+<!--
+Some examples include:
 * Job openings at [Woods Hole Oceanographic Institution](https://allcareers-whoi.icims.com/jobs/)
 * Job openings at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/portal/jobs)
+-->
