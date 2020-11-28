@@ -13,16 +13,11 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
-### Learn more about marine science communication (registration deadline November 9, 2020): [more information](https://commocean.org)
-
-### New cruise opportunities for students (deadline November 15, 2020): [more information]({% link career/cruises.md %})
-
 ### Nominations for the IAPSO Early Career Scientist Medals are now [open](http://iapso.iugg.org/awards-and-honors/early-career-scientist-medal.html)
 
 This award honours Early Career Scientists for their outstanding research in the physical or chemical sciences of the oceans, and for their cooperation in international research. The IAPSO Early Career Scientist Medals, one for physical ocean science and one for chemical ocean science are presented by the IAPSO President, every two years, at the biannual IAPSO Assembly, where the Awardees are expected to give a talk on a scientific topic of their choice. The next assemly is likely to be held virtually (see below).
 
 Please find the procedure and requirements for nomination on the [IAPSO website](http://iapso.iugg.org/awards-and-honors/early-career-scientist-medal.html). 
-
 
 ### Busan IAMAS-IACS-IAPSO [Joint Assembly 2021](http://www.baco-21.org/2021/english/main/index_en.asp)
 
