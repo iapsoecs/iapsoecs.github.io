@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position (2 years) in Arctic climate modelling (Oxford, UK)
+title: Postdoc position in Arctic climate modelling (Oxford, UK)
 subtitle: Oxford University
 tags: [postdoc, UK, numerical modelling, Arctic Ocean, sea ice, climate change]
 comments: false
