@@ -5,7 +5,7 @@ subtitle: Woods Hole Oceanographic Institution
 tags: [tenure, USA, air-sea interactions, climate, hydroclimatology]
 comments: false
 ---
-Tenure Track Scientist - Physical Oceanography
+Tenure Track Scientist - Physical Oceanography and Climate
 
 (to apply click here: https://careers-whoi.icims.com/jobs/1379/job=Job+Board&iisn=Earth+Science+Women's+Network)
 
