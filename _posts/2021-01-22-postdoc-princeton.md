@@ -2,7 +2,7 @@
 layout: post
 title: Postdoc positions in climate modelling and machine learning (Princeton, New Jersey)
 subtitle: Princeton University, Geophysical Fluid Dynamics Laboratory
-tags: [postdoc, Princeton, climate modelling, machine learning, air-sea interactions, parameterizations]
+tags: [postdoc, USA, climate modelling, machine learning, air-sea interactions, parameterizations]
 comments: false
 ---
 
