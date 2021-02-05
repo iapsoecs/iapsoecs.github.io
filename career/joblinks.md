@@ -13,6 +13,7 @@ subtitle: Other places to look for oceanography jobs
 ## Websites
 * The [MPOWIR](http://mpowir.org/blog/) site lists physical oceanography positions.
 * The [APECS job board](https://www.apecs.is/career-resources/job-board.html) lists positions in polar sciences, including polar oceanography.
+* The [EGU job website](https://www.egu.eu/jobs/) posts jobs across all fields, which can be filtered by division and sector
 
 ## Institutional websites
 
