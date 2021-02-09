@@ -13,11 +13,11 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
-### Making waves for ocean science: Empowering women and girls in the Ocean Decade
 
-11 February 2021 is the International Day of Women and Girls in Science!
+### 11 February 2021 is the International Day of Women and Girls in Science!
 
-Join ([here](https://unesco.us15.list-manage.com/track/click?u=75c69bf185fb2be069850f6ee&id=90b79f11ff&e=64390cb88d)) the Ocean Decade Virtual Series to celebrate: Making waves for ocean science: Empowering women and girls in the Ocean Decade, 11 February 2021, 16h00 - 17h30 (CET)
+Join the Ocean Decade Virtual Series ([here](https://unesco.us15.list-manage.com/track/click?u=75c69bf185fb2be069850f6ee&id=90b79f11ff&e=64390cb88d)) to celebrate:
+"Making waves for ocean science: Empowering women and girls in the Ocean Decade", 11 February 2021, 16h00 - 17h30 (CET)
 
 
 ### We are recruiting a new committee member
