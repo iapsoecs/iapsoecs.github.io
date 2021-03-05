@@ -7,11 +7,8 @@ comments: false
 ---
 
 Postdoctoral Fellowships: Greenland Ice Sheet Ocean Science (GRISO) Network 
-
 Topic: Oceanography / Glaciology / Ice-ocean Interactions / International Collaboration
-
 Available Positions: 2
-
 Duration: up to 3 years
 
 
@@ -22,9 +19,7 @@ We are seeking two postdoctoral researchers to take leadership roles in GRISO, h
 
 
 Advisors & Location:
-
 An Nguyen, University of Texas at Austin, Austin, TX, <https://crios-ut.github.io>
-
 Dave Sutherland, University of Oregon, Eugene, OR, <https://oceanice.org/>
 
 Qualifications. We seek postdoctoral researchers with a background in oceanography, glaciology, climate science, hydrology, or other fields that are relevant to ice-ocean interactions along the Greenland coastal margin. Successful applicants must demonstrate clear experience with, or a commitment to, cross- disciplinary work, which could include participation in cross-disciplinary teams, managing multi-person research projects, and/or building integrated research networks. Applicants should have a record of good written and spoken communication skills, as well as evidence of being an independent researcher with a collaborative attitude. Successful applicants must have a Ph.D. by the start date. We strongly encourage applicants from diverse gender, racial, and ethnic backgrounds to apply.
