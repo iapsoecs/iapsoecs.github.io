@@ -2,7 +2,7 @@
 layout: post
 title: Numerous Antarctic PhD opportunities
 subtitle: University of Tasmania, Institute for Marine and Antarctic Studies, Hobart, Australia
-tags: [postdoc, France, satellite observations, ocean color]
+tags: [PhD, Australia, Antarctica, sea leve, sea ice, Southern Ocean, ecosystem]
 comments: false
 ---
 
