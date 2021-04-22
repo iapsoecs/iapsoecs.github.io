@@ -16,7 +16,7 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 * [Issue 1, July 2019](#july-2020-issue-1)
 
 
-### November 2020 Issue 5
+### April 2021 Issue 6
 <div class="news-container">
   <a title="IAPSO ECS Newsletter, 2021, 6" href="/uploads/newsletter/iapsoecs_newsletter_2021_6.pdf" target='_blank'>
   <img src="/uploads/newsletter/iapsoecs_newsletter_2021_6_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2021, 6" class="news-image">
