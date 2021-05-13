@@ -15,9 +15,7 @@ US GO-SHIP is looking for early career scientists (high-level scientists/technic
 
 They are also seeking 2 students for CTD/deck operations (typically PO background), 1 student to assist with chlorofluorocarbon and SF6 (CFC) analysis (typically chemistry background), and 1 student to assist with LADCP (Lowered Acoustic Doppler Current Profiler) operations.
 
-[Please see announcement for details](https://usgoship.ucsd.edu/2021/05/12/sail-on-a135/)
-
-Deadline for applications: May 31, 2021.
+[Please see this announcement for details](https://usgoship.ucsd.edu/2021/05/12/sail-on-a135/). Deadline for applications: May 31, 2021.
 
 
 ## UNOLS cruise opportunities (U.S. Only)
