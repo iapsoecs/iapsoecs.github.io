@@ -14,10 +14,18 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 
-### 8 March 2021 is the International Women’s Day!
+### Students and Co-Chief Scientist opportunities to sail on the US GO-SHIP A13.5
 
-Join the Ocean Decade Virtual Series ([here](https://unesco.us15.list-manage.com/track/click?u=75c69bf185fb2be069850f6ee&id=0dc6e25c91&e=6d7ad041f0)) to celebrate:
-"Making waves for ocean science: Empowering Women Leaders in the Ocean Decade", 8 March 2021, 16:00 - 17:15 (CET)
+US GO-SHIP will conduct a repeat hydrography section in the Atlantic Ocean, between December 2021 - March 2022 (dates to be finalized) on the GO-SHIP decadal re-occupation of the hydrographic section A13.5. (This 2021-2022 cruise is actually a re-occupation following a truncated A13.5 in 2020, due to COVID-19.)
+
+US GO-SHIP is looking for early career scientists (high-level scientists/technicians, with PhDs or equivalent experience) with experience in physical or chemical oceanography (hydrography) who would be interested in participating on this cruise.
+
+They are also seeking 2 students for CTD/deck operations (typically PO background), 1 student to assist with chlorofluorocarbon and SF6 (CFC) analysis (typically chemistry background), and 1 student to assist with LADCP (Lowered Acoustic Doppler Current Profiler) operations.
+
+[Please see announcement for details](https://usgoship.ucsd.edu/2021/05/12/sail-on-a135/)
+
+Deadline for applications: May 31, 2021.
+
 
 
 ### We are recruiting a new committee member
@@ -34,12 +42,6 @@ As our group currently has representation from North America, Europe and Asia, w
 
 The ocean is central to the functioning of the planet and human well-being, but ongoing depletion, warming, and pollution threaten its future. The [UN Decade of Ocean Science for Sustainable Development](https://www.oceandecade.org) is a global effort from 2021-2030 focused on ensuring the sustainable use of ocean resources and long-term ocean health. The U.S. National Committee for the [Ocean Decade U.S.](https://www.nationalacademies.org/our-work/us-national-committee-on-ocean-science-for-sustainable-development-2021-2030) invites top experts in a wide range of disciplines to join this important effort. Learn how to participate [here](https://www.nationalacademies.org/our-work/us-national-committee-on-ocean-science-for-sustainable-development-2021-2030).
 
-
-### Nominations for the IAPSO Early Career Scientist Medals are now [open](http://iapso.iugg.org/awards-and-honors/early-career-scientist-medal.html)
-
-This award honours Early Career Scientists for their outstanding research in the physical or chemical sciences of the oceans, and for their cooperation in international research. The IAPSO Early Career Scientist Medals, one for physical ocean science and one for chemical ocean science are presented by the IAPSO President, every two years, at the biannual IAPSO Assembly, where the Awardees are expected to give a talk on a scientific topic of their choice. The next assemly is likely to be held virtually (see below).
-
-Please find the procedure and requirements for nomination on the [IAPSO website](http://iapso.iugg.org/awards-and-honors/early-career-scientist-medal.html). 
 
 
 ### Busan IAMAS-IACS-IAPSO [Joint Assembly 2021](http://www.baco-21.org/2021/english/main/index_en.asp)
