@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Postdoc position in ocean dynamics affecting open-ocean productivity
-and high-seas salmon (Victoria, Canada)
+title: Postdoc position in ocean dynamics affecting open-ocean productivity and high-seas salmon (Victoria, Canada)
 subtitle: University of Victoria
 tags: [postdoc, Canada, observations, North Pacific, ocean dynamics, marine biogeochemistry]
 comments: false
