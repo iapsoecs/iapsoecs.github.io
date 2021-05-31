@@ -15,3 +15,5 @@ The postdoc will be hosted by OSU’s Physics of Oceans and Atmospheres program 
 The position is for two years, ideally beginning Fall 2021, has a salary of at least $55,000 plus benefits, and includes support for research costs (travel, publication etc.). OSU requires that applicants have been awarded a PhD within 5 years of starting the position. Candidates should have experience in–or the potential for– building an equitable and diverse scholarly environment within physical oceanography or in the wider academic community.
 
 Apply via email to brodie.pearson [at] oregonstate.edu with a CV, a personal statement of research interests (max 2 pages), and contact information for three references.
+
+Webpage: https://brodiepearson.github.io/#jobs
