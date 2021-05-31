@@ -14,6 +14,20 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 
+### 8 June is World Oceans Day! Share your stories with us!
+
+The UN World Oceans Day is approaching (8 June, 2021), with a numerous events organized e.g. [here](https://unworldoceansday.org/). This year, the UN’s theme will be on life and livelihoods supported by the oceans. To celebrate this day, we would like to feature Early Career Scientist oceanographers in our upcoming newsletter: From the poles to the tropics, across the five great oceans, we want your stories on what you are working on in these areas! Please send us an email at [info@iapsoecs.org](info@iapsoecs.org) by 3 June and you will be contacted by our editor for an interview.
+
+
+
+### UN Decade of the Ocean's: Virtual Early Career Ocean Professional Day, 1 June, 2021
+
+On 1 June, 2021, the Virtual Early Career Ocean Professional (V.ECOP) Day will take place as a 24-hour livestream, which will follow the sun around the world. This event is related to the kick-off 1st International Conference to Ocean Decade. 
+
+Please see [this link](https://www.oceandecade.org/events/199/Virtual-Early-Career-Ocean-Professional-Day) for details to submit proposals for consideration, opportunities to present your ideas, and participate.
+
+
+
 ### Students and Co-Chief Scientist opportunities to sail on the US GO-SHIP A13.5
 
 US GO-SHIP will conduct a repeat hydrography section in the Atlantic Ocean, between December 2021 - March 2022 (dates to be finalized) on the GO-SHIP decadal re-occupation of the hydrographic section A13.5. (This 2021-2022 cruise is actually a re-occupation following a truncated A13.5 in 2020, due to COVID-19.)
