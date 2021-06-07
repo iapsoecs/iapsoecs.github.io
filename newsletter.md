@@ -8,12 +8,24 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 
 ## Contents
 
+* [Issue 7, June 2021](#june-2021-issue-7)
 * [Issue 6, April 2021](#april-2021-issue-6)
 * [Issue 5, November 2020](#november-2020-issue-5)
 * [Issue 4, June 2020](#june-2020-issue-4)
 * [Issue 3, April 2020](#april-2020-issue-3)
 * [Issue 2, November 2019](#november-2019-issue-2)
 * [Issue 1, July 2019](#july-2020-issue-1)
+
+
+### June 2021 Issue 7
+<div class="news-container">
+  <a title="IAPSO ECS Newsletter, 2021, 7" href="/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf" target='_blank'>
+  <img src="/uploads/newsletter/iapsoecs_newsletter_2021_7_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2021, 7" class="news-image">
+  <div class="news-overlay">
+    <div class="news-text">Click to download pdf</div>
+  </div>
+  </a>
+</div>
 
 
 ### April 2021 Issue 6
