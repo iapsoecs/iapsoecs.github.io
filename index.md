@@ -4,7 +4,7 @@ title: IAPSO ECS
 subtitle: IAPSO Early Career Scientists
 use-site-title: true
 bigimg:
-  - "/img/IAPSO_cover_large.jpg"
+  - "/img/IAPSO_cover_large_wod.jpg"
 ---
 
 The International Association for the Physical Sciences of the Oceans ([IAPSO](http://iapso.iugg.org/)) Early Career Scientists network is open to anyone  that self identifies as an early career scientist in physical or chemical sciences of the oceans. [Join here.]({% link joinus.md %})
