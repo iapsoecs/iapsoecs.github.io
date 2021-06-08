@@ -14,9 +14,11 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 
-### 8 June is World Oceans Day! Share your stories with us!
+### HAPPY World Oceans Day everyone! Read the inspiring stories of our community!
 
-The UN World Oceans Day is approaching (8 June, 2021), with a numerous events organized e.g. [here](https://unworldoceansday.org/). This year, the UN’s theme will be on life and livelihoods supported by the oceans. To celebrate this day, we would like to feature Early Career Scientist oceanographers in our upcoming newsletter: From the poles to the tropics, across the five great oceans, we want your stories on what you are working on in these areas! Please send us an email at [info@iapsoecs.org](info@iapsoecs.org) by 3 June and you will be contacted by our editor for an interview.
+To celebrate the UN World Oceans Day (8 June, 2021), our [newsletter]({% link newsletter.md %}) features Early Career Scientist oceanographers from the poles to the tropics, across the five great oceans. Read there inspiring stories ([pdf (976 KB)](/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf), [pdf (33 MB)](/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf)) and celebrate the diversity of our community with us!
+
+Today there are numerous events organized e.g. [here](https://unworldoceansday.org/) around the UN’s theme on life and livelihoods supported by the oceans.
 
 
 
