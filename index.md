@@ -16,9 +16,9 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ### HAPPY World Oceans Day everyone! Read the inspiring stories of our community!
 
-To celebrate the UN World Oceans Day (8 June, 2021), our [newsletter]({% link newsletter.md %}) features Early Career Scientist oceanographers from the poles to the tropics, across the five great oceans. Read there inspiring stories ([pdf (976 KB)](/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf), [pdf (33 MB)](/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf)) and celebrate the diversity of our community with us!
+To celebrate the UN World Oceans Day (8 June, 2021), our [newsletter]({% link newsletter.md %}) features Early Career Scientist oceanographers from the poles to the tropics, across the five great oceans. Read their inspiring stories ([pdf (976 KB)](/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf), [pdf (33 MB)](/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf)) and celebrate the diversity of our community with us!
 
-Today there are numerous events organized e.g. [here](https://unworldoceansday.org/) around the UN’s theme on life and livelihoods supported by the oceans.
+Today there are numerous events organized, e.g. [here](https://unworldoceansday.org/), around the UN’s theme on life and livelihoods supported by the oceans.
 
 
 
