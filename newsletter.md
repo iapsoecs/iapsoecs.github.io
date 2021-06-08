@@ -22,9 +22,10 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
   <a title="IAPSO ECS Newsletter, 2021, 7" href="/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf" target='_blank'>
   <img src="/uploads/newsletter/iapsoecs_newsletter_2021_7_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2021, 7" class="news-image">
   <div class="news-overlay">
-    <div class="news-text">Click to download pdf</div>
+    <div class="news-text">Click to download pdf (976 KB)</div>
   </div>
   </a>
+  <a href="/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf" target='_blank'>Download high-resolution version (33 MB)</a>
 </div>
 
 
