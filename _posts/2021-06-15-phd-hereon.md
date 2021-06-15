@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PhD student position: Modeling particulate organic matter dynamics in the North Sea
+title: PhD student position in modeling particulate organic matter dynamics in the North Sea
 subtitle: Institute of Coastal System Analysis and Modeling, Geesthacht, Germany
-tags: [PhD, Germany, North Sea, biogeochemistry, numerical modelling]
+tags: [PhD, Germany, North Sea, biogeochemistry, numerical modeling]
 comments: false
 ---
 
