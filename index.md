@@ -18,28 +18,6 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 To celebrate the UN World Oceans Day (8 June, 2021), our [newsletter]({% link newsletter.md %}) features Early Career Scientist oceanographers from the poles to the tropics, across the five great oceans. Read their inspiring stories ([pdf (976 KB)](/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf), [pdf (33 MB)](/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf)) and celebrate the diversity of our community with us!
 
-Today there are numerous events organized, e.g. [here](https://unworldoceansday.org/), around the UN’s theme on life and livelihoods supported by the oceans.
-
-
-
-### UN Decade of the Ocean's: Virtual Early Career Ocean Professional Day, 1 June, 2021
-
-On 1 June, 2021, the Virtual Early Career Ocean Professional (V.ECOP) Day will take place as a 24-hour livestream, which will follow the sun around the world. This event is related to the kick-off 1st International Conference to Ocean Decade. 
-
-Please see [this link](https://www.oceandecade.org/events/199/Virtual-Early-Career-Ocean-Professional-Day) for details to submit proposals for consideration, opportunities to present your ideas, and participate.
-
-
-
-### Students and Co-Chief Scientist opportunities to sail on the US GO-SHIP A13.5
-
-US GO-SHIP will conduct a repeat hydrography section in the Atlantic Ocean, between December 2021 - March 2022 (dates to be finalized) on the GO-SHIP decadal re-occupation of the hydrographic section A13.5. (This 2021-2022 cruise is actually a re-occupation following a truncated A13.5 in 2020, due to COVID-19.)
-
-US GO-SHIP is looking for early career scientists (high-level scientists/technicians, with PhDs or equivalent experience) with experience in physical or chemical oceanography (hydrography) who would be interested in participating on this cruise.
-
-They are also seeking 2 students for CTD/deck operations (typically PO background), 1 student to assist with chlorofluorocarbon and SF6 (CFC) analysis (typically chemistry background), and 1 student to assist with LADCP (Lowered Acoustic Doppler Current Profiler) operations.
-
-[Please see this announcement for details](https://usgoship.ucsd.edu/2021/05/12/sail-on-a135/). Deadline for applications: May 31, 2021.
-
 
 
 ### We are recruiting a new committee member
