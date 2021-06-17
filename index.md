@@ -14,7 +14,7 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 
-## 2 opportunities for students to sail on a research cruise in the Gulf of Mexico
+### 2 opportunities for students to sail on a research cruise in the Gulf of Mexico
 
 The Cooperative Institute for Marine and Atmospheric Studies (CIMAS) at the University of Miami is seeking applicants to participate in a hydrographic long-line research cruise (6 weeks) this Fall, in September-October 2021, in the Gulf of Mexico on the NOAA SHIP Ronald H. Brown, as part of the NOAA Ocean Acidification Program. Duties are largely CTD/deck operations.
 
