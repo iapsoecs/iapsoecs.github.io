@@ -14,6 +14,12 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 
+### The Virtual Atmosphere-Cryosphere-Ocean seminar series, 19-23 July 2021 (VACO-21)
+There is still time to register for the Virtual Atmosphere-Cryosphere-Ocean seminar series, 19-23 July 2021 (VACO-21), which is being held in replacement of the postponed joint assembly (BACO-21). This international online seminar series is hosted jointly by IAMAS, IACS and IAPSO. Registration is free.
+
+[Please see this announcement for details on program and registration](https://cryosphericsciences.org/vaco-21/)
+
+
 ### 2 opportunities for students to sail on a research cruise in the Gulf of Mexico
 
 The Cooperative Institute for Marine and Atmospheric Studies (CIMAS) at the University of Miami is seeking applicants to participate in a hydrographic long-line research cruise (6 weeks) this Fall, in September-October 2021, in the Gulf of Mexico on the NOAA SHIP Ronald H. Brown, as part of the NOAA Ocean Acidification Program. Duties are largely CTD/deck operations.
