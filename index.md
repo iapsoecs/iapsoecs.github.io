@@ -14,6 +14,15 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 
+## 2 opportunities for students to sail on a research cruise in the Gulf of Mexico
+
+The Cooperative Institute for Marine and Atmospheric Studies (CIMAS) at the University of Miami is seeking applicants to participate in a hydrographic long-line research cruise (6 weeks) this Fall, in September-October 2021, in the Gulf of Mexico on the NOAA SHIP Ronald H. Brown, as part of the NOAA Ocean Acidification Program. Duties are largely CTD/deck operations.
+
+[Please see this announcement for details](https://t.co/dpas5tHOc5?amp=1&s=03). Deadline for applications: June 25, 2021.
+
+[More cruise opportunities]({% link career/cruises.md %})
+
+
 ### HAPPY World Oceans Day everyone! Read the inspiring stories of our community!
 
 To celebrate the UN World Oceans Day (8 June, 2021), our [newsletter]({% link newsletter.md %}) features Early Career Scientist oceanographers from the poles to the tropics, across the five great oceans. Read their inspiring stories ([pdf (976 KB)](/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf), [pdf (33 MB)](/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf)) and celebrate the diversity of our community with us!
