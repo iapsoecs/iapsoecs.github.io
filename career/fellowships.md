@@ -40,4 +40,4 @@ There are hundreds of fellowship opportunities around the world available to res
 | Name                                                                                                                    | Length (years) | Eligibility                                        | Location of work           |
 |-------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------|----------------------------|
 | [AAAS Fellowships](https://www.aaas.org/fellowships) | 1         | U.S. citizens | USA |
-| [NOAA Climate & Global Change (C&GC) Postdoctoral Program](https://cpaess.ucar.edu/cgc) | 2         | Any nationality, no more then 3 years of Postdoctoral experience | USA |
+| [NOAA Climate & Global Change (C&GC) Postdoctoral Program](https://cpaess.ucar.edu/cgc) | 2         | Any nationality, no more than 3 years after PhD | USA |
