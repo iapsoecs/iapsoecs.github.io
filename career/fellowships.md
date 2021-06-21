@@ -15,6 +15,7 @@ There are hundreds of fellowship opportunities around the world available to res
 
 * [European Union](#european-union)
 * [United Kingdom](#united-kingdom)
+* [United States of America](#united-states-of-america)
 
 ### European Union
 
@@ -32,3 +33,11 @@ There are hundreds of fellowship opportunities around the world available to res
 | [Royal Society Newton International](https://royalsociety.org/grants-schemes-awards/grants/newton-international/ )              | 2                                        | Non-UK citizens, < 7 yrs postdoc experience                             | Outside UK       |
 | [Royal Society Newton Advanced Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-advanced-fellowships/ ) | 2 or 3                                   | Non-UK researcher seeking UK collaboration, < 15 yrs postdoc experience | Outside UK       |
 | [EPSRC Fellowship](https://epsrc.ukri.org/skills/fellows/)                                                                      | 3 (postdoc) 5 (early career/established) | Any nationality and career stage                                        | UK institutions  |
+
+
+### United States of America
+
+| Name                                                                                                                    | Length (years) | Eligibility                                        | Location of work           |
+|-------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------|----------------------------|
+| [AAAS Fellowships](https://www.aaas.org/fellowships) | 1         | U.S. citizens | USA |
+| [NOAA Climate & Global Change (C&GC) Postdoctoral Program](https://cpaess.ucar.edu/cgc) | 2         | Any nationality, PhD <=3years | USA |
