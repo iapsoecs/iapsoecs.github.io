@@ -1,0 +1,20 @@
+---
+layout: post
+title: Postdoc position on the evolution of chlorophyll fronts (Florence, Italy)
+subtitle: LAMMA-CNR Consortium
+tags: [postdoc, Italy, numerical modelling, observations, chlorophyll, marine ecosystems]
+comments: false
+---
+
+An open position for a research fellowship on the topic “Study of the evolution of chlorophyll fronts through high resolution models, HF radars and data assimilation” is available at LAMMA-CNR Consortium (Florence, Italy), in collaboration with OGS (National Institute of Oceanography and Applied Geophysics).
+
+To assess the impact of anthropogenic pollutants on marine and coastal ecosystems (including HNS, plastic marine litter, organic micropollutants, etc.) a large number of multi-disciplinary skills and tools are needed, such as observation systems (in-situ and satellite) and numerical models. Numerical models are fundamental tools to get a three-dimensional description of the main physical and biogeochemical processes, both to analyze past situations supported by observations, and to make predictions. Although models suffer from uncertainties that need to be reduced to make more accurate assessments, their support is essential in several fields. As an example, the space-time evolution of productive oceanic features (chlorophyll-a fronts), strictly depending on oceanographic flow field, is necessary to study the feeding habitat of a number of marine species. Satellites with low revisit time provide valuable observations of chlorophyll fronts but are not sufficient to characterize its subsurface structure. On the other hand, the modelling of the trajectory of pollutants of punctual and widespread origin, may suffer from the uncertainties affecting the hydrodynamic models output. Therefore, we consider necessary: 1) to increase the resolution of the numerical models in use, to allow the representation of fundamental physical and biogeochemical features for ecosystem assessments, currently not well described in most of the (operational) models in use; 2) to reduce the uncertainty of such models through data assimilation. The realization of such a model necessarily requires the support of high-performance computational tools.
+The proposed activity will implement a combined physical-biogeochemical model in the North-Western Mediterranean area including the PELAGOS Sanctuary (a Specially Protected Areas of Mediterranean Importance). The area is of great importance both for the occurrence of significant oceanographic processes (including the development of the North Mediterranean current and deep water formation), and for the remarkable presence of marine mammals suffering from numerous threatening factors (ingestion of plastic marine litter and hydrocarbons). It is then important to rely on accurate numerical models to identify feeding habitats of cetaceans and assess the risks associated with the potential compresence of pollutants.
+The benefits associated with the assimilation of data on a regional scale model will be assessed comparing the results from the use of already available models. Observations will include satellite data (available through CMEMS) and additional data coming from the HF radar network present in the North-Western Mediterranean, and made available through SICOMAR , IMPACT, SICOMARplus and SHAREMED projects.
+In the first part the activity involves the implementation of models and procedures for reducing uncertainties. In the second part, the evolution of chlorophyll fronts will be analyzed. Comparisons between model outputs and satellite data will be carried out, together with the results of feeding habitat models and cetacean sightings, available through the GIAS project, and in collaboration with other entities operating in the PELAGOS Sanctuary.
+
+For more info contact  Carlo Brandini LAMMA-CNR: brandini@lamma.toscana.it - carlo.brandini@cnr.it
+For more info on HPC-TRES: https://www.inogs.it/en/content/hpc-training-and-research-earth-sciences-hpc-tres
+
+Application form: https://www.inogs.it/en/node/1774
+NEW Deadline: 2 July 2021
