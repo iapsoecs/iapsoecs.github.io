@@ -13,6 +13,9 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
+### Joint ECS efforts are critical to furthering our understanding of the oceans
+Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
+
 
 ### The Virtual Atmosphere-Cryosphere-Ocean seminar series, 19-23 July 2021 (VACO-21)
 There is still time to register for the Virtual Atmosphere-Cryosphere-Ocean seminar series, 19-23 July 2021 (VACO-21), which is being held in replacement of the postponed joint assembly (BACO-21). This international online seminar series is hosted jointly by IAMAS, IACS and IAPSO. Registration is free.
