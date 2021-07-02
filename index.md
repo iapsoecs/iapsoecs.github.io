@@ -13,6 +13,16 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
+### IAPSO ECS session
+During VACO-21, the IAPSO Early Career Network will offer a session on Wednesday July 21st at 17:45 UTC, following the IAMAS-IACS-IAPSO Early Career Scientist awardee talks.
+
+The session will be focused on different career paths and challenges early career scientists may face. The session will start with a brief introduction from the chairs of the IAPSO ECS working group, Alejandra Sanchez-Franks and Malin Ödalen, followed by our keynote speakers, Julia Gottschalk and Katelin Childers.
+
+Drs. Gottschalk and Childers both have PhDs in marine science but have followed different career paths in academia and industry, respectively. They will share their career stories, talk about obstacles and choices they have faced, and share advice that can be useful along the way. We will finish with a relaxed social event where you get to know your peers.
+
+[Please register here](https://forms.gle/LUTHJtYgyeSh1eBE6)
+
+
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
 
