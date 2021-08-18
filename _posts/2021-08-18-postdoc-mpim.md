@@ -20,7 +20,6 @@ The objective of this position is to use and adapt a 2-step neural network techn
 
 
 The researcher recruited for this position will:
-
 - Adopt and expand an established machine learning technique (SOM-FFN) to better constrain the air-sea CO2 exchange.
 - Use high resolution ocean CO2 measurements collected during the EUREC4A campaign and collected from sailboats in combination with measurements from the Surface Ocean CO2 Atlas (SOCAT) database to better quantify the marine CO2 sink and its uncertainty, further supplying the annual Global Carbon Budget.
 - Study high frequency variations to help improve the next generation of high-resolution Earth System Models.
@@ -29,7 +28,6 @@ The researcher recruited for this position will:
 
 
 Requirements:
-
 - A PhD in Meteorology, Oceanography, Physics, or Mathematics.
 - Very good knowledge in ocean biogeochemistry, the global carbon cycle or oceanic processes.
 - Excellent data-analysis skills.
@@ -46,7 +44,6 @@ The Max Planck Institute for Meteorology seeks to increase the number of female 
 
 
 Employment conditions
-
 - The position is available from November 2021 for 18 months.
 - Payment will be in accordance with German public service positions (TVoeD E14), including extensive social security plans. The conditions of employment, including upgrades and duration, follow the rules of the Max Planck Society for the Advancement of Sciences and those of the German civil service.
 
@@ -59,7 +56,6 @@ This vacancy has been opened on 18.08.2021. A first cut-off date for the collect
 How to submit your application for this post
 
 Please submit:
-
 - A cover letter
 - A detailed curriculum vitae
 - The names, addresses, and telephone numbers of two references
@@ -68,7 +64,7 @@ Please submit:
 Please upload the documents as pdf files (word or other file formats will not be processed) in our online web tool:
 
 
-https://s-lotus.gwdg.de/mpg/mhmt/perso/mpim_w097.nsf/application
+<https://s-lotus.gwdg.de/mpg/mhmt/perso/mpim_w097.nsf/application>
 
 
 For further information, please contact Dr. Peter Landschützer at (peter.landschuetzer(at)mpimet.mpg.de).
