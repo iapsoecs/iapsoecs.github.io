@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position (3 years) in Mediterranean Sea modelling (Bologna, Italy)
+title: Postdoc position in Mediterranean Sea modelling (Bologna, Italy)
 subtitle: National Institute of Geophysics and Volcanology
 tags: [postdoc, Italy, numerical modelling, Mediterranean Sea]
 comments: false
