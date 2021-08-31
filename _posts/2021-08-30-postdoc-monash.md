@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc positions (3 years) in climate and ice-sheet modelling (Melbourne, Australia)
+title: Postdoc positions in climate and ice-sheet modelling (Melbourne, Australia)
 subtitle: Monash University
 tags: [postdoc, Australia, numerical modelling, Southern Ocean]
 comments: false
