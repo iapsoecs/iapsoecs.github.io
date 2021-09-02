@@ -8,7 +8,7 @@ subtitle: Previous early career events
 
 During VACO-21 (July 19 - 23, 2021), the IAPSO Early Career Network offered a session focused on different career paths and challenges that early career scientists may face. It started with a brief introduction from the chairs of the IAPSO ECS working group, Alejandra Sanchez-Franks and Malin Ödalen, followed by the keynote speakers, Julia Gottschalk and Katelin Childers.
 
-Drs. Gottschalk and Childers both have PhDs in marine science but have followed different career paths in academia and industry, respectively. They shared their career stories, talked about obstacles and choices they have faced, and shared advice many useful pieces of advice.
+Drs. Gottschalk and Childers both have PhDs in marine science but have followed different career paths in academia and industry, respectively. They shared their career stories, talked about obstacles and choices they have faced, and shared advice many useful pieces of advice. Watch the recordings below!
 
 #### Introduction
 
