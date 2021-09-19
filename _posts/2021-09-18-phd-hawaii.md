@@ -9,6 +9,8 @@ We seek a graduate student interested in chemical oceanography / ocean biogeoche
 
 Desired qualifications: Bachelor’s degree in a science or engineering discipline. Experience in or willingness to learn a coding language (Matlab or Python) for data analysis. 
 
+Closing date: Dec 15, 2021
+
 Webpage link:
 
 https://bushinskyoceanlab.org/people/#Openings
