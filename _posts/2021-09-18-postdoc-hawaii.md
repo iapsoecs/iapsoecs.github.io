@@ -13,6 +13,8 @@ Applications will open in late September. In the meantime, please contact me wit
 
 As a side note, I am hiring a student to work on a related topic in the Kuroshio Extension of the NW Pacific to better understand the role of subtropical mode waters in driving ocean biogeochemistry, with the focus on carbon and oxygen uptake, so we will have a number of people as part of an interdisciplinary research group.
 
+Closing date: Dec 15, 2021
+
 Webpage link:
 
 https://bushinskyoceanlab.org/people/#Openings
