@@ -13,9 +13,16 @@ There are hundreds of fellowship opportunities around the world available to res
 
 ## Contents
 
+* [International](#international)
 * [European Union](#european-union)
 * [United Kingdom](#united-kingdom)
 * [United States of America](#united-states-of-america)
+
+### International
+
+| Name                                                                                                                    | Length (years) | Eligibility                                        | Location of work           |
+|-------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------|----------------------------|
+| [AXA Research Fund](https://www.axa-research.org/ ) | 2         | Any nationality, no more than five years past the completion of PhD | Global |
 
 ### European Union
 
