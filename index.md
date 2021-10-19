@@ -14,7 +14,7 @@ We envision a community that will provide networking opportunities, mentoring, c
 ## Important Updates
 
 ### AXA & IOC-UNESCO Postdoctoral Fellowships on Coastal Livelihoods
-The AXA Research Fund and the Ocean Decade (IOC-UNESCO) have a joint call for Postdoctoral Fellowships on “Resilient Coastal Livelihoods”. Deadline for registration is November 8, 2021. Find more information and guidlines on the [AXA Research Fund website](https://www.axa-research.org/en/news/axa-unesco-call-for-projects-coastal-livelihoods).
+The AXA Research Fund and the Ocean Decade (IOC-UNESCO) have a joint call for Postdoctoral Fellowships on “Resilient Coastal Livelihoods”. Deadline for registration is November 8, 2021. Find more information and guidlines on the [AXA Research Fund website](https://www.axa-research.org/en/news/axa-unesco-call-for-projects-coastal-livelihoods). You can also find a list of further fellowship opportunities on our [website]({% link career/fellowships.md %}).
 
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
