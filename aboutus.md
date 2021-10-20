@@ -139,3 +139,16 @@ bigimg:
 	</td>
 	</tr>
 </table>
+
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Mujeeb Akanbi Abdulfatai (Nigeria, member):</strong>
+	Mujeeb is a NF-POGO Centre of Excellence for Observational Oceanography scholar at the Alfred Wegener Institute (AWI) in Germany. He recently concluded his Masters research study where he developed noise-filtering methods to remove small-scale noises from the wide swath Sea Water and Ocean Topography (SWOT) satellite images. The SWOT satellite mission is a BOOST-SWOT project backed by JPL-NASA/CNES/MEOM group. He enjoys going on research cruises, coding and watching football.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<img src="../uploads/bio_photos/Mujeeb.png" alt="Mujeeb Akanbi Abdulfatai" class="profile-image"/>
+	</td>
+	</tr>
+</table>
