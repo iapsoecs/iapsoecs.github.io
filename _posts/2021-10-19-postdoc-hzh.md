@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Scientist/Postdoc in Climate Change and Ocean Modelling (Geesthacht, Germany)
-subtitle: Helmholtz-Zentrum Hereon (Closes: Nov 19, 2021)
-tags: [postdoc, Germany, coastal, sustainability, energy]
+title: Postdoc position in climate change and ocean modelling (Geesthacht, Germany)
+subtitle: Helmholtz-Zentrum Hereon
+tags: [postdoc, Germany, coastal ocean, energy, fisheries, North Sea, Baltic Sea]
 comments: false
 ---
 
