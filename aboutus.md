@@ -40,8 +40,8 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Malin Ödalen (USA, vice-chairperson):</strong>
-	Malin is a post-doctoral scientist at the University of Arizona in Tucson. She works on ocean carbon storage across climate states, mainly using intermediate complexity models. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.</p>
+	<p><strong>Malin Ödalen (Germany, vice-chairperson):</strong>
+	Malin is a post-doctoral researcher at the GEOMAR Helmholtz Centre for Ocean Research in Kiel, Germany, working in the SO-CHIC project. She is a modeller with a PhD from Stockholm University (2019) who is interested in physical and biogeochemical aspects of the ocean’s role in the climate system. Her research topics are Southern Ocean processes, and global ocean carbon storage across climate states. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.researchgate.net/profile/Malin_Oedalen" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/malin.jpg" alt="Malin Ödalen" class="profile-image"/></a>
@@ -132,7 +132,7 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Alex Haumann (USA, member):</strong>
-	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between the sea ice, ocean, atmosphere, and carbon cycle. He received his PhD from ETH Zurich (2016), which was awarded with the ETH Medal and the Prix de Quervain. Currently, Alex is a postdoc at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition.</p>
+	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between ice, ocean, atmosphere, and the carbon cycle. He received his PhD from ETH Zurich (2016). Currently, Alex is an Associate Research Scholar at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition. Alex enjoys cooking, hiking, travelling, and snowboarding.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.ahaumann.net" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image"/></a>
