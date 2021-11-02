@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Researcher position in ocean biogeochemistry of the tropical and south Atlantic (Bergen, Norway)
-subtitle: UUniversity of Bergen and Bjerknes Centre for Climate Research
+title: Researcher position in biogeochemistry of the tropical and south Atlantic ocean (Bergen, Norway)
+subtitle: University of Bergen and Bjerknes Centre for Climate Research
 tags: [postdoc, Norway, numerical modelling, biogeochemistry, Atlantic ocean]
 comments: false
 ---
