@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Postdoc position in coupled climate dynamics (Durham, North Carolina)
@@ -6,6 +5,7 @@ subtitle: Duke University
 tags: [postdoc, USA, numerical modelling, observations, air-sea interactions, climate variability, climate change]
 comments: false
 ---
+
 The Climate Dynamics Lab at Duke University is seeking a postdoctoral
 scholar to work on coupled climate dynamics. The main goal of the project
 is to understand the role of air-sea coupling in global climate change and
