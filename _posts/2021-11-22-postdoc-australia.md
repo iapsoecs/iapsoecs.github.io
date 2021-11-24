@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eight postdocoral positions in oceanography and Antarctic science (Sydney, Australia)
+title: Eight postdoctoral positions in oceanography and Antarctic science (Sydney, Australia)
 subtitle: University of New South Wales, Climate Change Research Centre
 tags: [postdoc, Australia, numerical modelling, observations, Southern Ocean, Antarctica, climate change]
 comments: false
