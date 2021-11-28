@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Tenure position in cryosphere studies (Cambridge, Massachusetts)
@@ -16,6 +15,6 @@ A doctorate or terminal degree in a field of science related to cryosphere studi
 Please submit applications online at: https://academicpositions.harvard.edu/postings/10681 
 Required materials include a cover letter, curriculum vita; a statement of research and teaching interests; a statement describing efforts to encourage diversity, inclusion, and belonging, including past, current, and anticipated future contributions in these areas; four representative publications; and the names, institutional affiliations, and e-mail addresses of three references. Review of applications will begin November 8, 2021 and conclude when the position is filled.
 
-Further information about EPS is available at https://eps.harvard.edu/ .  Address questions about the position to Professor Jerry X. Mitrovica (jxm@eps.harvard.edu) and about the application process to Emily Bowman (ebowman@fas.harvard.edu).
+Further information about EPS is available at https://eps.harvard.edu/.  Address questions about the position to Professor Jerry X. Mitrovica (jxm@eps.harvard.edu) and about the application process to Emily Bowman (ebowman@fas.harvard.edu).
 
 Harvard University is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related considerations, or any other characteristic protected by law.
