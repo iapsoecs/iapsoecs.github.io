@@ -1,0 +1,12 @@
+---
+layout: post
+title: Postdoc position in modeling marine ecosystem tipping points (Princeton, New Jersey)
+subtitle: Princeton University
+tags: [postdoc, USA, numerical modelling, marine ecosystems, climate change]
+comments: false
+---
+The Atmospheric and Oceanic Sciences Program at Princeton University in cooperation with NOAA's Geophysical Fluid Dynamics Laboratory (GFDL) seeks postdoctoral research associates and/or more senior scientists to develop and apply Earth System Models (ESMs) and other tools necessary for understanding where, when, and how marine ecosystems may reach critical ?tipping points? or abrupt major changes in structure, function, and services. Topics of emphasis include: a) application of GFDL?s current Earth System Models to assess potential marine ecosystem tipping points under climate change, ocean acidification and other human influence, b) development of benthic and estuarine and pelagic ecosystem components in GFDL?s next generation Earth System Model, and c) ecological data assimilation and predictability. Personnel will join an active group at Princeton and GFDL studying the connections between biogeochemistry, ecosystems and climate (https://www.gfdl.noaa.gov/marine-ecosystems/). Candidates with quantitative, interdisciplinary knowledge from subsets of fields including climate dynamics, ocean and coastal biogeochemistry, and marine ecosystem dynamics and predictability are particularly encouraged to apply. Experience analyzing large data sets and/or model output is also critical, as is model development experience for those positions. This is a one-year position, with the possibility of renewal based on additional funding becoming available, and satisfactory performance, for a total of 2 years.
+
+Complete applications, including a CV, publication list, a one-to-two page statement of research interests, and contact information for 3 references should be submitted by March 31, 2022, 11:59 pm EST for full consideration. Princeton is interested in candidates who, through their research, will contribute to the diversity and excellence of the academic community. Applicants should apply online at https://www.princeton.edu/acad-positions/position/24381.
+
+This position is subject to the University?s background check policy. Princeton University is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
