@@ -6,10 +6,15 @@ tags: [PhD, Australia, satellite observations, phytoplankton, ocean colour]
 comments: false
 ---
 Faculty: Science and Engineering
+
 School: Earth and Planetary Sciences
+
 Location: Curtin University, Bentley Campus, Bentley (Perth), WA 6102
+
 Supervisor: Prof. David Antoine
+
 Co-supervisors: Prof. Pete Strutton (University of Tasmania, UTas, Hobart) and A/Prof. Alex Sen Gupta (University of New South Wales, UNSW, Sydney)
+
 Start: as soon as practicable, ideally first semester 2022.
 
 Project summary:
@@ -20,9 +25,11 @@ All satellite data sets are publicly available from ESA or NASA archives. Model 
 The activity is part of programs #1 and #3 of the ARC Australian Centre for Excellence in Antarctic Science (ACEAS; see below) which will provide a $5,000 pa top-up scholarship to the selected candidate.
 
 Context:
+
 This PhD project is affiliated with the ARC Australian Centre for Excellence in Antarctic Science (ACEAS), a national-scale, University-led, international centre focused on helping the world community prepare for climate risks emerging from East Antarctica and the Southern Ocean by integrating knowledge of the ocean, atmosphere, cryosphere and ecosystems, and their interplay. ACEAS will grow to support the activities of around 150 researchers, administrative staff, and students, with exciting opportunities to collaborate across disciplinary and institutional boundaries. Further information on ACEAS is available at: https://antarctic.org.au
 
 Selection criteria:
+
 • Honours / Master’s degree or equivalent qualification in a relevant area (e.g., satellite ocean colour remote sensing, physical or biogeochemical oceanography, coupled physical-biogeochemical ocean modelling)
 • Evidence of emerging independent research work, for example, a thesis with an associated peer-reviewed
 publication or draft manuscript.
@@ -34,6 +41,7 @@ R or Matlab programming)
 • Some evidence of capability to collaboratively work within a research team
 
 Other desirable criteria:
+
 • Willingness and ability to travel interstate and overseas.
 
 Applications to be sent to the project PI, david.antoine@curtin.edu.au
