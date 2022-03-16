@@ -36,36 +36,21 @@ Science, and Solar System Exploration Divisions.
 
 The researcher will focus on:
 
-   -
-
-   developing and evaluating updates to the Generalized Inherent Optical
+   - developing and evaluating updates to the Generalized Inherent Optical
    Property (GIOP) software framework,
-   -
-
-   evaluating and refining existing QA/QC metrics and skill assessment
+   - evaluating and refining existing QA/QC metrics and skill assessment
    procedures,
-   -
-
-   evaluating in situ and other satellite data streams related to
+   - evaluating in situ and other satellite data streams related to
    bio-optical algorithm development, assembly of data sets, evaluation and
    intercomparison of time-series,
-   -
-
-   contributing to reporting of algorithm retrieval skill via the OBPG's
+   - contributing to reporting of algorithm retrieval skill via the OBPG's
    ocean color satellite-to-in situ validation system,
-   -
-
-   collaborating with OBPG staff on general ocean color satellite
+   - collaborating with OBPG staff on general ocean color satellite
    calibration and validation activities,
-   -
-
-   presenting at NASA and professional society meetings and documenting
+   - presenting at NASA and professional society meetings and documenting
    work in peer-reviewed literature, and
-   -
-
-   conducting periodic independent research and assisting with NASA
+   - conducting periodic independent research and assisting with NASA
    proposal writing as appropriate.
-
 
 Anticipated specific research duties include investigation of multivariate
 models and machine learning techniques for use in IOP retrievals and the
@@ -76,28 +61,16 @@ satellite data streams.
 
 Required knowledge and skills:
 
-   -
-
-   PhD in oceanography, physics, mathematics, or a related field,
-   -
-
-   research experience in bio-optics, remote-sensing, and radiative
+   - PhD in oceanography, physics, mathematics, or a related field,
+   - research experience in bio-optics, remote-sensing, and radiative
    transfer theory,
-   -
-
-   demonstrated working knowledge of inverse models, multivariate modeling
+   - demonstrated working knowledge of inverse models, multivariate modeling
    and/or machine learning algorithms,
-   -
-
-   proficiency in one or more programming languages such as
+   - proficiency in one or more programming languages such as
    Python/Matlab/R/Julia for the analysis of scientific data,
-   -
-
-   experience in NASA?s SeaDAS or related satellite data-processing
+   - experience in NASA?s SeaDAS or related satellite data-processing
    software, and
-   -
-
-   good oral and written communication skills demonstrated by a publication
+   - good oral and written communication skills demonstrated by a publication
    record in peer-reviewed literature and/or scientific reports as first
    author, and a record of presenting research outcomes at
    seminars/meetings/conferences.
@@ -106,22 +79,12 @@ Required knowledge and skills:
 
 Desired knowledge and skills :
 
-   -
-
-   Familiarity with Sentinel-3 OLCI and JAXA SGLI ocean color datasets,
-   -
-
-   experience with measurement uncertainty propagation/estimation
+   - Familiarity with Sentinel-3 OLCI and JAXA SGLI ocean color datasets,
+   - experience with measurement uncertainty propagation/estimation
    techniques,
-   -
-
-   experience working in Unix/Linux software environments,
-   -
-
-   proficiency in FORTRAN, C, or C++ programming language, and
-   -
-
-   experience using version control software git/svn.
+   - experience working in Unix/Linux software environments,
+   - proficiency in FORTRAN, C, or C++ programming language, and
+   - experience using version control software git/svn.
 
 
 
