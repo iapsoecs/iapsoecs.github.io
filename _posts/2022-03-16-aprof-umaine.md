@@ -5,6 +5,7 @@ subtitle: University of Maine
 tags: [tenure, USA, observations, coastal ocean]
 comments: false
 ---
+https://umaine.hiretouch.com/job-details?jobid=74249
 
 Position Title:
 Assistant Professor in Physical Oceanography (id:74249)
