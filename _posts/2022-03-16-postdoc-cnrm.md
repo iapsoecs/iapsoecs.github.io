@@ -16,6 +16,6 @@ initialization in a seasonal forecasting framework.
 
 Full details on the position and how to apply are available here:
 
-https://urldefense.com/v3/__http://www.umr-cnrm.fr/IMG/pdf/job_offer_c3s_370_wp3.pdf__;!!KGKeukY!jNEvjJpW3bqN776KudDpZU5cYwN1tGclA_48QPM9JuLCAGgFhJ-RR68Yvy-NYsICnKM$
+http://www.umr-cnrm.fr/IMG/pdf/job_offer_c3s_370_wp3.pdf
 
 Deadline for applications is 20 March 2022 for a position starting in July 2022.
