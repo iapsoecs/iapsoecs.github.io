@@ -2,7 +2,7 @@
 layout: post
 title: Postdoc position in Earth system modeling (Bern, Switzerland)
 subtitle: University of Bern
-tags: [postdoc, UK, numerical modelling, biogeochemistry, climate change]
+tags: [postdoc, Switzerland, numerical modelling, biogeochemistry, climate change]
 comments: false
 ---
 PostDoc in Earth system modeling with a focus on adaptive scenarios
