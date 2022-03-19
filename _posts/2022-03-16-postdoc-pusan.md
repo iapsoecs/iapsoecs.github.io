@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Postdoc position in multi-year earth system predictability (Busan, North Korea)
+title: Postdoc position in multi-year earth system predictability (Busan, South Korea)
 subtitle: Pusan National University, IBS Center for Climate Physics
-tags: [postdoc, North Korea, numerical modelling, predictability, forecasting]
+tags: [postdoc, South Korea, numerical modelling, predictability, forecasting]
 comments: false
 ---
 Postdoctoral Fellow Position – Multi-year earth system predictability
