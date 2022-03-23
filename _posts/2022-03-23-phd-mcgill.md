@@ -5,9 +5,7 @@ subtitle: McGill University
 tags: [PhD, Canada, numerical modelling, Antarctica, sea ice]
 comments: false
 ---
-**Title**
-
-Response of Antarctic sea ice to climate change
+**Title: Response of Antarctic sea ice to climate change**
 
 
 **Description**
