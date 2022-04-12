@@ -20,13 +20,14 @@ Further details at https://www.hw.ac.uk/uk/research/global/lyell-centre/impacts-
 The position may involve fieldwork; you must be able to work independently and seek solutions to a variety of challenges, including in complicated and partly remote environments. We encourage disclosure of special needs to enable us to make reasonable adjustments to support you. You will work effectively as part of a larger team including other PDRAs, technicians, and PhD researchers.
 
 **Key Duties & Responsibilities**
-• Develop a particle tracking model of plastic transport from river to coast
-• Apply the plastic transport model to assess the source and sink of plastics
-• Scientific research, analysis and interpretation of data.
-• Communication with other investigators involved in this collaborative project; preparation of scientific papers; presentations at conferences.
-• Conduct and lead own experiments whilst also supervising junior group members and PhD students.
-• Assist in the day-to-day maintenance of the experimental facilities, liaising with other postdocs and external collaborators.
-• The successful candidate is also expected to be involved in our outreach activities, with roles that can be tuned to the specific preferences of the candidate but will involve for example interviews, talks for the general public and preparation of experimental demonstrations.
+
+- Develop a particle tracking model of plastic transport from river to coast
+- Apply the plastic transport model to assess the source and sink of plastics
+- Scientific research, analysis and interpretation of data.
+- Communication with other investigators involved in this collaborative project; preparation of scientific papers; presentations at conferences.
+- Conduct and lead own experiments whilst also supervising junior group members and PhD students.
+- Assist in the day-to-day maintenance of the experimental facilities, liaising with other postdocs and external collaborators.
+- The successful candidate is also expected to be involved in our outreach activities, with roles that can be tuned to the specific preferences of the candidate but will involve for example interviews, talks for the general public and preparation of experimental demonstrations.
 
 You will have a PhD in a relevant area of Oceanography, Engineering, CFD, Applied Mathematics, Physics, or cognate discipline; appropriate publications for career stage; experience in modelling a variety of fluid flows and/or pollutant transport using mathematical and numerical methods, of scientific programming in FORTRAN, in performing/analysing ocean current and/or wave models; understanding/background in physical ocean processes; evidence of problem-solving, flexibility.
 
