@@ -22,14 +22,14 @@ The contract will be open-ended but with fixed funding until 31 December 2024. H
 **Key Duties & Responsibilities**
 
 The successful appointee will be expected to undertake the following:
-• Conduct interdisciplinary research including: oceanography/hydrography, microplastics research, community engagement, policy analysis, citizen science.
-• Ensuring effective reporting and operations of the project, generating team culture and ethic, mentoring fellow project postdocs and PhD.
-• General tasks- scientific research, analysis and interpretation of data.
-• Communication with other investigators; preparation of scientific papers; presentation at conferences.
-• Conduct and lead experiments/fieldwork whilst supervising activities of junior group members and PhD students.
-• Assistance in the day-to-day, liaising with other postdocs and external collaborators involved.
-• Involvement in our outreach activities, with roles that can be tuned to the specific preferences of the candidate but will involve for example interviews, talks for the general public and preparation of experimental demonstrations.
-• The successful candidate will need to have an excellent command of written and verbal English for effective communication and close cooperation and coordination of the project team.
+- Conduct interdisciplinary research including: oceanography/hydrography, microplastics research, community engagement, policy analysis, citizen science.
+- Ensuring effective reporting and operations of the project, generating team culture and ethic, mentoring fellow project postdocs and PhD.
+- General tasks- scientific research, analysis and interpretation of data.
+- Communication with other investigators; preparation of scientific papers; presentation at conferences.
+- Conduct and lead experiments/fieldwork whilst supervising activities of junior group members and PhD students.
+- Assistance in the day-to-day, liaising with other postdocs and external collaborators involved.
+- Involvement in our outreach activities, with roles that can be tuned to the specific preferences of the candidate but will involve for example interviews, talks for the general public and preparation of experimental demonstrations.
+- The successful candidate will need to have an excellent command of written and verbal English for effective communication and close cooperation and coordination of the project team.
 
 You will have a PhD in a relevant area of social science, community engagement, policy analysis, plastics pollution, environmental microbiology or molecular biology; theoretical understanding and experimental or field experience in area of specialism; appropriate publication record for career stage; evidence of working independently, problem-solving, flexibility, articulating research work – written and verbal, project and grant management with multiple stakeholders.
 
@@ -39,6 +39,8 @@ Contact for enquiries: Michel Kaiser M.Kaiser@hw.ac.uk or for non-science questi
 
 Heriot-Watt University is committed to securing equality of opportunity in employment and to the creation of an environment in which individuals are selected, trained, promoted, appraised and otherwise treated on the sole basis of their relevant merits and abilities. Equality and diversity are all about maximising potential and creating a culture of inclusion for all.
 
+Closing date: April 26
+
 **Webpage link**
 
-	https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2009/?utm_medium=jobshare
+https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2009/?utm_medium=jobshare
