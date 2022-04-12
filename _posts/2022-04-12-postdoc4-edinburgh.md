@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in environmental microbiology, molecular biology and microscopy of marine microplastics (Edinburgh, UK)
+title: Postdoc position in marine microplastics (Edinburgh, UK)
 subtitle: Heriot-Watt University
 tags: [postdoc, UK, ocean plastics, coastal ocean]
 comments: false
@@ -20,13 +20,14 @@ The role involves significant fieldwork effort, requiring independent working, o
 Further details at https://www.hw.ac.uk/uk/research/global/lyell-centre/impacts-plastics-vietnam.htm
 
 **Key Duties & Responsibilities**
-• Conduct work on the design and development of plastic particle identification and classification using SEM.
-• Use microbiological and molecular biology tools, such as 13C-labelled plastic polymers, to conduct biodegradation experiments.
-• General tasks will involve scientific research, and analysis and interpretation of data.
-• Communication with other investigators involved in this collaborative project; preparation of scientific papers; presentation of research at conferences.
-• The successful candidate will be expected to develop and conduct their own experiments whilst also supervising the activities of junior group members and PhD students.
-• Responsibilities will also include assistance in the day-to-day maintenance of the experimental facilities, liaising with other postdocs and external collaborators involved in the project.
-• The successful candidate is also expected to be involved in our outreach activities, with roles that can be tuned to the specific preferences of the candidate but will involve for example interviews, talks for the general public and preparation of experimental demonstrations.
+
+- Conduct work on the design and development of plastic particle identification and classification using SEM.
+- Use microbiological and molecular biology tools, such as 13C-labelled plastic polymers, to conduct biodegradation experiments.
+- General tasks will involve scientific research, and analysis and interpretation of data.
+- Communication with other investigators involved in this collaborative project; preparation of scientific papers; presentation of research at conferences.
+- The successful candidate will be expected to develop and conduct their own experiments whilst also supervising the activities of junior group members and PhD students.
+- Responsibilities will also include assistance in the day-to-day maintenance of the experimental facilities, liaising with other postdocs and external collaborators involved in the project.
+- The successful candidate is also expected to be involved in our outreach activities, with roles that can be tuned to the specific preferences of the candidate but will involve for example interviews, talks for the general public and preparation of experimental demonstrations.
 
 You will have a PhD in a relevant area of plastics pollution, environmental microbiology, molecular biology or related subject; Demonstrative theoretical understanding and experimental background in microbiology, including microscopy and molecular biology; appropriate publication record for career stage; previous experience analysing and interpreting SEM imagery; evidence of working independently, problem-solving, flexibility, and articulating research work – written and verbal.
 
