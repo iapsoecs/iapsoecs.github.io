@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Permanent position in Arctic physical oceanography (Brest, France)
-subtitle: Laboratoire d’Oceìanographie Physique et Spatiale (LOPS), Ifremer
+subtitle: LOPS Laboratory, Ifremer
 tags: [permanent, France, numerical modelling, observations, Arctic Ocean]
 comments: false
 ---
-A permanent position for a research scientist working on the Arctic region is now open at the Laboratoire d’Oceìanographie Physique et Spatiale, Ifremer (Brest, France).
+A permanent position for a research scientist working on the Arctic region is now open at the Laboratoire d’Oceanographie Physique et Spatiale, Ifremer (Brest, France).
 
 Announcements and application procedures are here:
 EN
