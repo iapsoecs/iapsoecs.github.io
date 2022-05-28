@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Position in operational science support for ships at sea (Hawaii)
+title: Positions in operational science support for ships at sea (Hawaii)
 subtitle: University of Hawaii
 tags: [USA, observations, software development]
 comments: false
@@ -22,8 +22,7 @@ after the initial data collection is over.
 ------
 One position is for someone with experience in scientific programmming in
 Python, who strongly values Open Source projects and reliable code.
-They would be helping to develop and maintain the UHDAS code and other things
-we use.
+They would be helping to develop and maintain the UHDAS code and other things we use.
 
 This position has posted.
 ------
@@ -40,14 +39,17 @@ and curious; have good people and communication skills; and are
 excited to live in Hawaii.
 
 
-- Both positions will close mid-late June.
-- This page has more information:
+Both positions will close mid-late June.
+
+This page has more information:
      https://currents.soest.hawaii.edu/docs/hiring/2022-hiring.html
 
-
-
 ===========
+
 Dr. Julia M. Hummon
+
 Dept Oceanography
+
 UHDAS/ADCP ocean currents
+
 hummon@hawaii.edu
