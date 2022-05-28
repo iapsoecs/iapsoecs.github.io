@@ -16,4 +16,4 @@ Applicants are asked to submit a cover letter, vitae, a publication list, a stat
 
 Review of applications will begin as soon as they are received and continue until the position is filled. This position is subject to the University's background check policy.
 
-Princeton University is an equal opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by la
+Princeton University is an equal opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law.
