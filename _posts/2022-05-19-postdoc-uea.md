@@ -5,7 +5,7 @@ subtitle: University of Exeter / University of East Anglia
 tags: [postdoc, UK, numerical modelling, Pacific ocean, climate change]
 comments: false
 ---
-Two PDRA vacancies in climate modelling – one at Exeter and one at UEA - are available to undertake research into climate change in the
+Two PDRA vacancies in climate modelling – one at Exeter and one at UEA – are available to undertake research into climate change in the
 tropical Pacific and its global impacts. They are part of the
 NERC-funded project ImPOse (Impacts of Pacific Ocean warming trends) –
 a collaboration between the University of Exeter, the University of
