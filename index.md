@@ -13,16 +13,11 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
-### PODS XII (16-20 October 2022)
-The Physical Oceanography Dissertations Symposium (PODS) XII meeting is an excellent opportunity for those about to graduate or who have just graduated. It is a really good experience, fully funded, and open to international applicants. [Apply here](https://www.soest.hawaii.edu/pods/PODS_symposium/pods_application.htm). Application Deadline: 22 April 2022.
+### How to make the most of career development opportunities for ECRs
+
+The The NERC CLASS programme (Climate Linked Atlantic Sector Science) is running a seminar by Penny Holliday aimed at UK based ECRs in oceanography:
+
+"In this short presentation I will give a little bit of background about CLASS and what NERC National Capability is, but mainly I will describe the ways in which ECRs from across the UK can make use of the CLASS cruises and research centres to design your own career development opportunity. I’ll provide some examples of the things that people have done already, with the view of inspiring you to think about how you could benefit."
 
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
-
-### HAPPY World Oceans Day everyone! Read the inspiring stories of our community!
-
-To celebrate the UN World Oceans Day (8 June, 2021), our [newsletter]({% link newsletter.md %}) features Early Career Scientist oceanographers from the poles to the tropics, across the five great oceans. Read their inspiring stories ([pdf (976 KB)](/uploads/newsletter/iapsoecs_newsletter_2021_7.pdf), [pdf (33 MB)](/uploads/newsletter/iapsoecs_newsletter_2021_7_highres.pdf)) and celebrate the diversity of our community with us!
-
-### Call for Ocean Decade U.S. participation
-
-The ocean is central to the functioning of the planet and human well-being, but ongoing depletion, warming, and pollution threaten its future. The [UN Decade of Ocean Science for Sustainable Development](https://www.oceandecade.org) is a global effort from 2021-2030 focused on ensuring the sustainable use of ocean resources and long-term ocean health. The U.S. National Committee for the [Ocean Decade U.S.](https://www.nationalacademies.org/our-work/us-national-committee-on-ocean-science-for-sustainable-development-2021-2030) invites top experts in a wide range of disciplines to join this important effort. Learn how to participate [here](https://www.nationalacademies.org/our-work/us-national-committee-on-ocean-science-for-sustainable-development-2021-2030).
