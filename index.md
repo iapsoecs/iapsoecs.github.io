@@ -15,9 +15,18 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ### How to make the most of career development opportunities for ECRs
 
+When: Monday June 13 at 1400 BST.
+
+[Register here!](https://www.eventbrite.co.uk/e/nerc-class-programme-climate-linked-atlantic-sector-science-ecr-seminar-tickets-354482736407)
+
+For more ECR seminars [look here](https://www.challenger-society.org.uk/ECR_events)
+
+Info:
+
 The The NERC CLASS programme (Climate Linked Atlantic Sector Science) is running a seminar by Penny Holliday aimed at UK based ECRs in oceanography:
 
-"In this short presentation I will give a little bit of background about CLASS and what NERC National Capability is, but mainly I will describe the ways in which ECRs from across the UK can make use of the CLASS cruises and research centres to design your own career development opportunity. I’ll provide some examples of the things that people have done already, with the view of inspiring you to think about how you could benefit."
+> In this short presentation I will give a little bit of background about CLASS and what NERC National Capability is, but mainly I will describe the ways in which ECRs from across the UK can make use of the CLASS cruises and research centres to design your own career development opportunity. I’ll provide some examples of the things that people have done already, with the view of inspiring you to think about how you could benefit.
+
 
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
