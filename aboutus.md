@@ -152,3 +152,16 @@ bigimg:
 	</td>
 	</tr>
 </table>
+
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Marina Azaneu (UK, member):</strong>
+	Marina is a physical oceanographer working at University of East Anglia (UEA, UK) on ocean-atmospheric interaction in the tropics. Her work is focused on intraseasonal variability and extreme precipitation events in the eastern Indian Ocean using models and ocean glider data. However, she hasn't yet let go completely of her past as a polar researcher, still getting involved whenever she can with Antarctica, because there is nothing more exciting than trying to finish dinner whilst crossing the Drake Strait.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<img src="../uploads/bio_photos/marina.png" alt="Marina Azaneu" class="profile-image"/>
+	</td>
+	</tr>
+</table>
