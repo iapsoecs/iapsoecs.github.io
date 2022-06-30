@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoctoral Fellowship in Ocean Observation, Analysis and Prediction (Vancouver, Canada)
+title: Postdoctoral fellowship in ocean observation, analysis and prediction (Vancouver, Canada)
 subtitle: University of British Columbia
 tags: [postdoc, Canada, observations, instrumentation]
 comments: false
