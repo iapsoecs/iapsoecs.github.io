@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in marine chemistry and biogeochemical modeling (Seattle, Washington)
+title: Postdoc position in marine chemistry and biogeochemical modelling (Seattle, Washington)
 subtitle: University of Washington, Cooperative Institute for Climate, Ocean, and Ecosystem Studies
 tags: [postdoc, USA, numerical modelling, biogeochemistry]
 comments: false
@@ -34,18 +34,16 @@ Cheng.
 
 
 Major duties include:
-? Utilize observational data from a combination of ship-based sampling,
-moorings, and
-autonomous instruments to skill test model output on multiple timeframes.
-? Assist in the development of model products used to support NOAA
+- Utilize observational data from a combination of ship-based sampling,
+moorings, and autonomous instruments to skill test model output on multiple timeframes.
+- Assist in the development of model products used to support NOAA
 Fisheries management.
-? Lead and contribute to publications in peer-reviewed journals, presenting
-at scientific
-conferences, participating in proposal writings.
-? Document progress on tasks and communicate progress regularly with other
+- Lead and contribute to publications in peer-reviewed journals, presenting
+at scientific conferences, participating in proposal writings.
+- Document progress on tasks and communicate progress regularly with other
 team members and leadership.
 
-The impact of CICOES?s environmental research is felt by communities all
+The impact of CICOES's environmental research is felt by communities all
 over the world, and a broad variety of perspectives and life experiences is
 essential to the success of this research. We encourage candidates from
 groups historically and currently underrepresented in this field to apply.
@@ -55,8 +53,8 @@ https://cicoes.uw.edu/about/diversity/.
 Postdoctoral scholars are represented by UAW 4121 and are subject to the
 collective bargaining agreement, unless agreed exclusion criteria apply.
 For more information, please visit the University of Washington Labor
-Relations website
-<http://https//hr.uw.edu/labor/academic-and-student-unions/uaw-postdocs/uaw-postdoc-contract>
+Relations website:
+http://https//hr.uw.edu/labor/academic-and-student-unions/uaw-postdocs/uaw-postdoc-contract
 
 For questions about the position duties, please reach out to Dr. Darren
 Pilcher at  darren.pilcher@noaa.gov . For questions about applying,
