@@ -11,4 +11,14 @@ Description The PhD researcher will contribute to the goals of PASSAGE using a c
 
 Tasks
 
-Assist in instrument setup and testing Participate in fieldwork: oceanographic cruises to sample material Conduct geochemical laboratory experiments and measurements Analyse and interpret data Formulate additional hypotheses and research questions Collaborate, discuss data, and exchange ideas with mentors and international partners Write high quality research manuscripts for publication in peer-reviewed scientific journals Disseminate results at international conferences Mentor undergraduate students
+- Assist in instrument setup and testing 
+- Participate in fieldwork: oceanographic cruises to sample material 
+- Conduct geochemical laboratory experiments and measurements 
+- Analyse and interpret data 
+- Formulate additional hypotheses and research questions 
+- Collaborate, discuss data, and exchange ideas with mentors and international partners 
+- Write high quality research manuscripts for publication in peer-reviewed scientific journals 
+- Disseminate results at international conferences 
+- Mentor undergraduate students
+
+https://euraxess.ec.europa.eu/jobs/791802
