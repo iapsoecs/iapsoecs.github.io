@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lecturer in benthic biogeochemistry (Oban, UK)
-subtitle: SAMS
+subtitle: Scottish Association for Marine Science
 tags: [lecturer, UK, biogeochemistry, aquaculture]
 comments: false
 ---
