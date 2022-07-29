@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position on sea level constraints on climate models (Reading, UK)
+title: Postdoc position on sea level constraints on climate models (Maynooth, Ireland)
 subtitle: Maynooth University, ICARUS (Irish Climate Analysis and Research Units)
 tags: [postdoc, Ireland, numerical modelling, sea level rise]
 comments: false
