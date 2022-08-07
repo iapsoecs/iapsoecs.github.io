@@ -13,6 +13,11 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
+### AWI is looking for a participant on a cruise across the ACC (physical oceanographer)
+
+AWI is looking for a physical oceanographer (e.g. a PhD Student or Postdoc) who might be interested to go on a Southern Ocean cruise on a relatively short notice (starting October 1st). If you are interested please see [here]({% link career/cruises.md %}) for details.
+
+
 ### How to make the most of career development opportunities for ECRs
 
 When: Monday June 13 at 1400 BST.
