@@ -7,6 +7,17 @@ use-site-title: true
 Taking part in a research cruise is a great experience that should be available to all oceanographers. However, news of cruise opportunities often travels by word of mouth or email lists within institutions. If you are not directly involved in a project that has upcoming cruises, you will need to talk to project PIs to see if they need more participants. Some opportunities are more widely advertised, and we have tried to compile a list of them below. 
 
 
+## AWI is looking for a participant on a cruise across the ACC (physical oceanographer)
+
+AWI is looking for a physical oceanographer (e.g. a PhD Student or Postdoc) who might be interested to go on a cruise on a relatively short notice (starting October 1st). There is also an opportunity (if desired) to get participate in data analysis.
+
+The goal of the PS133 cruise is to establish how pathways of iron in the Southern Ocean impact the primary and export production. The aim is to occupy four transects across the ACC. It is planed to occupy each of these transects twice, right after each other. The first occupation will be a high resolution section with the Triaxus towed undulating profiler (equipped with physical, biogeochemical, and biological sensors) together with VMADCP. The second occupation will be CTD stations at intermediate resolution. Those CTD stations will be covered by a regular CTD-rosette including LADCP and also by an ultra-clean CTD rosette capable of delivering samples for the measurement of iron concentrations.
+
+The cruise will be on the German research ice breaker Polarstern departing Cape Town (South Africa) on October 1st and arriving in Punta Arenas (Chile) on November 17th. A senior physical oceanographer had to cancel her participation at short notice. Hence, they are missing crucial expertise and support for the physical oceanography.
+
+Please email both wvonappen@awi-polarstern.de and wjvappen@awi.de if you are interested.
+
+
 ## 2 opportunities for students to sail on a research cruise in the Gulf of Mexico
 
 The Cooperative Institute for Marine and Atmospheric Studies (CIMAS) at the University of Miami is seeking applicants to participate in a hydrographic long-line research cruise (6 weeks) this Fall, in September-October 2021, in the Gulf of Mexico on the NOAA SHIP Ronald H. Brown, as part of the NOAA Ocean Acidification Program. Duties are largely CTD/deck operations.
