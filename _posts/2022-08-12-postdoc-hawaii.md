@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc opportunity: Southern Ocean Mode and Intermediate water carbon uptake and biogeochemistry (Manoa, Hawaii)
+title: Postdoc opportunity on Southern Ocean Mode and Intermediate water carbon uptake and biogeochemistry (Manoa, Hawaii)
 subtitle: University of Hawaii
 tags: [postdoc, USA, biogeochemistry, Southern Ocean, NASA]
 comments: false
