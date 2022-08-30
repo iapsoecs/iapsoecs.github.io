@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Postdoc on ocean vertical transport observations (La Spezia, Italy)
