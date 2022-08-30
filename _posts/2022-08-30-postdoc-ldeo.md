@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postdoc positions in tropical climate dyanmics (Palisades, New York)
-subtitle: amont-Doherty Earth Observatory, Columbia University
+subtitle: Lamont-Doherty Earth Observatory, Columbia University
 tags: [postdoc, USA, numerical modelling, tropical cyclones, Pacific Ocean]
 comments: false
 ---
