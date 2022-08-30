@@ -13,13 +13,12 @@ edge, such as the interactions between sea ice and oceanic eddies, the
 influence of landfast ice, the role of coastal currents, the complex
 bathymetry, ... In this context, the Georges Lemaître Centre for Earth
 and Climate Research (ELIC ;
-https://urldefense.com/v3/__https://uclouvain.be/en/research-institutes/eli/elic__;!!KGKeukY!wIkbNEsbE7BJlKx4O6h5b49vR1_1-pdQpKQDe7ayrLXOZnhbke4VRp0on1xK-eWPCXB2txcsXED7Dsz_onEG$  ) / Earth and Life
-Institute (ELI ; https://urldefense.com/v3/__https://uclouvain.be/en/research-institutes/eli__;!!KGKeukY!wIkbNEsbE7BJlKx4O6h5b49vR1_1-pdQpKQDe7ayrLXOZnhbke4VRp0on1xK-eWPCXB2txcsXED7DrFS7SNd$  ) of
-the Université catholique de Louvain (UCLouvain ;
-https://urldefense.com/v3/__https://uclouvain.be__;!!KGKeukY!wIkbNEsbE7BJlKx4O6h5b49vR1_1-pdQpKQDe7ayrLXOZnhbke4VRp0on1xK-eWPCXB2txcsXED7DsWQvDtg$  ), Louvain-la-Neuve, Belgium is seeking a
+https://uclouvain.be/en/research-institutes/eli/elic) / Earth and Life
+Institute (ELI ; https://uclouvain.be/en/research-institutes/eli) of
+the Université catholique de Louvain (UCLouvain ; https://uclouvain.be), Louvain-la-Neuve, Belgium is seeking a
 postdoctoral fellow for conducting and comparing thoroughly
 simulations with the global sea ice-ocean general circulation model
-NEMO4-SI3 (https://urldefense.com/v3/__http://www.nemo-ocean.eu__;!!KGKeukY!wIkbNEsbE7BJlKx4O6h5b49vR1_1-pdQpKQDe7ayrLXOZnhbke4VRp0on1xK-eWPCXB2txcsXED7DueAQcZn$  ) driven by an atmospheric reanalysis at
+NEMO4-SI3 (http://www.nemo-ocean.eu) driven by an atmospheric reanalysis at
 two different horizontal resolutions, namely 1° and 1/12°,  in order
 to determine how resolution impacts the model mean state and the model
 ability to reproduce the summer sea ice extent record lows observed
