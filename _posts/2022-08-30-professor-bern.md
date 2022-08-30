@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Professor position in climate science (Bern, Switzerland)
+title: Professorship in climate science (Bern, Switzerland)
 subtitle: University of Bern
 tags: [professorship, Switzerland, numerical modelling, climate change]
 comments: false
@@ -16,6 +16,7 @@ research program to study past and future global climate system
 changes using coupled climate models.
 
 For the full job advertisement see:
-https://urldefense.com/v3/__https://www.climate.unibe.ch/about_us/open_positions/full_or_associate_professor_in_climate_and_environmental_physics/index_eng.html__;!!KGKeukY!xuplv4na4Qf0JiKDYwVTlMeV5uoBdfIGcvzUjXTqr5tQY1iuEVkUrFblxY_Ep_7fbzdYZGIVuyBIFluYGPqA$ 
+
+https://www.climate.unibe.ch/about_us/open_positions/index_eng.html
 
 Deadline for applications is 14.10.2022
