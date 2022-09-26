@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three postdoctoral positions in a collaborative internal wave project (Mississipi, Michigan, California)
+title: Three postdoctoral positions in a collaborative internal wave project (Mississippi, Michigan, California)
 subtitle: University of Southern Mississippi (USM), University of Michigan (U-M), Jet Propulsion Laboratory (JPL)
 tags: [postdoc, USA, numerical modelling, observations, internal waves, SWOT]
 comments: false
