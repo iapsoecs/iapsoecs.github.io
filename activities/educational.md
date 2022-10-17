@@ -3,15 +3,14 @@ layout: page
 title: Educational resources
 subtitle: Resources for outreach and learning
 ---
-
 ## Contents
 
-* [Participating in large-scale scientific assessments](#participating-in-large-scale-scientific-assessments)
+* [Participating in scientific assessments](#participating-in-scientific-assessments)
 * [The Carbon Cycle](#the-carbon-cycle)
 * [Ocean Acidification](#co2-uptake-and-ocean-acidification)
 * [Climate Models](#climate-models)
 
-### Participating in large-scale scientific assessments
+### Participating in scientific assessments
 
 {% include youtube_player.html id="C6TUKYIAxdU" %}
 
