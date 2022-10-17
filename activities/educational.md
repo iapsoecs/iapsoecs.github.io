@@ -5,14 +5,10 @@ subtitle: Resources for outreach and learning
 ---
 ## Contents
 
-* [Participating in scientific assessments](#participating-in-scientific-assessments)
 * [The Carbon Cycle](#the-carbon-cycle)
 * [Ocean Acidification](#co2-uptake-and-ocean-acidification)
 * [Climate Models](#climate-models)
-
-### Participating in scientific assessments
-
-{% include youtube_player.html id="C6TUKYIAxdU" %}
+* [Participating in scientific assessments](#participating-in-large-scale-scientific-assessments)
 
 ### The Carbon Cycle
 
@@ -25,3 +21,7 @@ subtitle: Resources for outreach and learning
 ### Climate Models
 
 {% include youtube_player.html id="8EAiopHMKyI" %}
+
+### Participating in large-scale scientific assessments
+
+{% include youtube_player.html id="C6TUKYIAxdU" %}
