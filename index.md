@@ -20,7 +20,6 @@ There will be a series of events taking place at Ocean Pavillion of COP27 (6-18 
 Also see [this message](https://mailchi.mp/unesco/cop27-ocean-decade-events) from the The Ocean Decade Team and their associated COP27 [website](https://www.oceandecade.org/un-climate-change-conference-2022/).
 
 
-
 ### Metrology workshop opportunity
 
 We would like to inform you of this early career opportunity from MINKE, which is a European Commission funded project dedicated to metrology in the marine environment ([Link](https://minke.eu/services/sykeworkshop/)).
