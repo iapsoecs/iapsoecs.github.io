@@ -47,8 +47,8 @@ climate model (Silvy et al., 2022a,b).
 
 APPLICATION:
 
-Please contact Jean-Baptiste Sallée (jean-baptiste.sallee@locean.ispl.fr) and Casimir de
-Lavergne (casimir.delavergne@locean.ipsl.fr) with a CV before mid-November, and as soon
+Please contact Jean-Baptiste Sallée (jean-baptiste.sallee@locean.ipsl.fr) and Casimir de
+Lavergne (casimir.delavergne@locean.ipsl.fr) with a CV before mid-December, and as soon
 as possible.
 
 STARTING DATE:
