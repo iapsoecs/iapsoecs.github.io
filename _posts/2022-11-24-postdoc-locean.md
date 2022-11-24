@@ -58,7 +58,7 @@ As soon as possible
 DURATION:
 
 Depending on the starting date. End of the postdoc in October 2024 (due to funding
-availability)
+availability). There are good prospects to continue employment on an alternative research position.
 
 SUPERVISORS:
 
