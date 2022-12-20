@@ -13,6 +13,9 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
+### IAPSO Early Career Scientist Medals for the year 2023
+The call for nomination for the recipients of the IAPSO Early Career Scientist Medals for the year 2023 is open until 10 January, 2023. Please follow this [link for details](https://iapso-ocean.org/resources/news-archive/206-iapso-early-career-scientist-medals-2023.html).
+
 ### IUGG 2023
 Abstract submission for IUGG 2023 in Berlin, 11-20 July 2023, is now open and closes on 14 February 2023. Please consider submitting an abstract [here](https://www.iugg2023berlin.org/abstract-submission/). IAPSO sessions will last from 12-17 July 2023. Stay tuned for updates, such as Early Career Scientists events.
 
