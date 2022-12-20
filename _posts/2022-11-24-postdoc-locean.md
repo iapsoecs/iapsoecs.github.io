@@ -13,25 +13,25 @@ carbon, oxygen, nutrients) between the surface and the deep seas. However, too l
 known about the processes shaping deep-ocean ventilation and its changes.
 The Southern Ocean is thought to have an outsized role in connecting surface and deep
 waters: about 60% of the total global ocean volume had its last surface contact or will have
-its next surface contact south of 40oS (de Vries and Primeau, 2011). A key unknown of the
+its next surface contact south of 40ºS (DeVries and Primeau, 2011). A key unknown of the
 ventilation puzzle concerns the return path from the interior ocean to the Southern Ocean
 surface, which involves wind-driven vertical circulation as well as mixing processes, and
 which controls the rate at which the large carbon and nutrient deep-ocean reservoirs
-communicate with the surface (e.g. Le Queré 2009; de Vries 2017). The central objective of
+communicate with the surface (e.g. Le Queré et al., 2009; DeVries et al., 2017). **The central objective of
 the project is to understand the drivers of this return path from the global deep ocean to the
-Southern Ocean surface, and their ability to change under on-going climate change.
+Southern Ocean surface, and their ability to change under on-going climate change.**
 
 Ocean ventilation can occur either through advection of material as part of the global ocean
 overturning circulation, or through diffusive mixing. While the resurfacing of deep waters in
 the Southern Ocean has been described as primarily driven by winds (Marshall and Speer,
-2012), the local and large-scale impacts of interior mixing hotspots remain unclear. The first
+2012), the local and large-scale impacts of interior mixing hotspots remain unclear. **The first
 objective of this project will be to quantify the impact of varying interior mixing intensity
-versus winds on the resurfacing of deep waters in the Southern Ocean. This will be
+versus winds on the resurfacing of deep waters in the Southern Ocean.** This will be
 addressed by sensitivity experiments using varying mixing schemes in an existing
 configuration of the NEMO global ocean model (used in the IPSL climate model).
 
-The second objective of the project will be to delineate the processes driving Southern
-Ocean overturning circulation change in the context of ongoing climate change. The ocean
+**The second objective of the project will be to delineate the processes driving Southern
+Ocean overturning circulation change in the context of ongoing climate change.** The ocean
 responds to climate change through modifications of heat, freshwater and momentum
 fluxes at its boundaries. Recent work has started to highlight the potential important
 contribution of thermodynamic drivers (change in air-sea heat fluxes) over mechanical
@@ -48,7 +48,7 @@ climate model (Silvy et al., 2022a,b).
 APPLICATION:
 
 Please contact Jean-Baptiste Sallée (jean-baptiste.sallee@locean.ipsl.fr) and Casimir de
-Lavergne (casimir.delavergne@locean.ipsl.fr) with a CV before mid-December, and as soon
+Lavergne (casimir.delavergne@locean.ipsl.fr) with a CV, and as soon
 as possible.
 
 STARTING DATE:
