@@ -13,5 +13,8 @@ We envision a community that will provide networking opportunities, mentoring, c
 
 ## Important Updates
 
+### IUGG 2023
+Abstract submission for IUGG 2023 in Berlin, 11-20 July 2023, is now open and closes on 14 February 2023. Please consider submitting an abstract. IAPSO sessions will last from 12-17 July 2023. Stay tuned for updates, such as Early Career Scientists events.
+
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
