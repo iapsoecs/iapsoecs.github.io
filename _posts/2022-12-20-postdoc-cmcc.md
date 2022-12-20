@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in oceam data assimilation (Bologna, Italy)
+title: Postdoc position in ocean data assimilation (Bologna, Italy)
 subtitle: CMCC Foundation
 tags: [postdoc, Italy, numerical modelling, assimilation, operational oceanography]
 comments: false
