@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-subtitle: Links to helpful websites
+subtitle: Links to helpful websites and resources for Early Career Scientists
 ---
 
 
