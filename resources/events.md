@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Past Events
-subtitle: Previous early career events
+title: Events
+subtitle: Early career events
 ---
+
+### Previous Events
 
 ## IAPSO ECS session at VACO-21
 
