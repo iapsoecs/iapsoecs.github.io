@@ -22,5 +22,8 @@ Abstract submission for IUGG 2023 in Berlin, 11-20 July 2023, is now open and cl
 ### Manifesto for Early Career Researchers
 The Initiative for Science in Europe (ISE) published a [manifesto for Early Career Researchers](https://initiative-se.eu/manifesto/) to call for broad and robust support to early career investigators and scholars in times of uncertainty.
 
+### I05 Co-Chief Scientist Opportunity
+US GO-SHIP is seeking a co-chief scientist for the I05 occupation. Early career scientists are encouraged to apply. More details can be found [here]({% link career/cruises.html %}).
+
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
