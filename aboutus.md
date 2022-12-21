@@ -53,19 +53,6 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Arvind Singh (India, member):</strong>
-	Arvind Singh is a Reader at the Physical Research Laboratory (PRL), Ahmdedabad, India. He obtained his PhD in Oceanography from PRL in 2011, was a postdoc at University of Gothenburg, Sweden (2012) and GEOMAR, Germany (2013-2015). His research interests are biogeochemical cycles of carbon and nitrogen in the ocean and atmosphere, stable isotopes in the marine environment and oceanographic time-series studies. He teaches ocean biogeochemistry and error analysis courses at PRL.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="https://www.prl.res.in/~arvinds/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/arvind.jpg" alt="Arvind Singh" class="profile-image"/></a>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
 	<p><strong>Danielle Su (France, member):</strong>
 	Danielle started her journey as an oceanographer moving from one island (Singapore) to another (Australia) and recently completed her PhD at The University of Western Australia investigating flow topography interactions around islands in the Northern Indian Ocean. Now at the LOCEAN Laboratory in Paris, she is delving into the world of biogeochemistry. Enjoys hiking and good wine, especially if done together.</p>
 	</td>
@@ -162,6 +149,21 @@ bigimg:
 	</td>
 	<td width="24%" class="profile-cell">
 	<img src="../uploads/bio_photos/marina.png" alt="Marina Azaneu" class="profile-image"/>
+	</td>
+	</tr>
+</table>
+
+
+## Former committee members
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Arvind Singh (India, member):</strong>
+	Arvind Singh is a Reader at the Physical Research Laboratory (PRL), Ahmdedabad, India. He obtained his PhD in Oceanography from PRL in 2011, was a postdoc at University of Gothenburg, Sweden (2012) and GEOMAR, Germany (2013-2015). His research interests are biogeochemical cycles of carbon and nitrogen in the ocean and atmosphere, stable isotopes in the marine environment and oceanographic time-series studies. He teaches ocean biogeochemistry and error analysis courses at PRL.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://www.prl.res.in/~arvinds/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/arvind.jpg" alt="Arvind Singh" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
