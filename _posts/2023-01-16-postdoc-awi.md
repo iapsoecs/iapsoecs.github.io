@@ -40,7 +40,7 @@ As part of this project, you will have the opportunity to
 
 **Further Information**
 
-Please contact Dr. Alexander Haumann (alexander.haumann@awi.de) for further information.
+Please contact [Dr. Alexander Haumann](alexander.haumann@awi.de) for further information.
 
 This full time position is limited to 2 years. It is also suitable for part-time employment. The salary will be paid in accordance with the Collective Agreement for the Public Service of the Federation (Tarifvertrag des öffentlichen Dienstes, TVöD Bund), up to salary level 13. The place of employment will be Bremerhaven.
 
@@ -49,15 +49,15 @@ Postdocs have to register with AWI's postdoc office PROCEED, thereby gaining acc
 
 **The AWI is characterised by**
 
-    - our scientific success - excellent research
-    - collaboration and cooperation - intra-institute, national and international, interdisciplinary
-    - opportunities to develop – on the job, aiming at other positions and beyond AWI
-    - a culture of reconciling work and family – an audited and well-supported aspect of our operation
-    - our outstanding research infrastructure – ships, stations, aircraft, laboratories and more
-    - an international environment – everyday contacts with people from all over the world
-    - having an influence – fundamental research with social and political relevance
-    - flat hierarchies – facilitating freedom and responsibility
-    - exciting science topics, with opportunities also in technology, administration and infrastructure
+ - our scientific success - excellent research
+ - collaboration and cooperation - intra-institute, national and international, interdisciplinary
+ - opportunities to develop – on the job, aiming at other positions and beyond AWI
+ - a culture of reconciling work and family – an audited and well-supported aspect of our operation
+ - our outstanding research infrastructure – ships, stations, aircraft, laboratories and more
+ - an international environment – everyday contacts with people from all over the world
+ - having an influence – fundamental research with social and political relevance
+ - flat hierarchies – facilitating freedom and responsibility
+ - exciting science topics, with opportunities also in technology, administration and infrastructure
 
 
 Equal opportunities are an integral part of our personnel policy. The AWI aims to increase the number of female employees and therefore strongly encourages qualified women to apply.
@@ -70,6 +70,6 @@ The AWI fosters the compatibility of work and family in various ways and has rec
 
 We look forward to your application!
 
-Please submit your application by February 12th 2023, exclusively online: https://jobs.awi.de/Vacancies/1242/Description/2
+Please submit your application by February 12th 2023, exclusively online: [https://jobs.awi.de/Vacancies/1242/Description/2]
 
 Reference number: 23/6/D/Kli-b
