@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in wave mean flow interactions (Bremerhaven, Germany)
+title: Postdoc position in Oceanography (Bremerhaven, Germany)
 subtitle: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
 tags: [postdoc, Germany, observations, physics, biogeochemistry]
 comments: false
