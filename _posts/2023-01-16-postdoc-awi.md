@@ -40,7 +40,7 @@ As part of this project, you will have the opportunity to
 
 **Further Information**
 
-Please contact [Dr. Alexander Haumann](alexander.haumann@awi.de) for further information.
+Please contact Dr. Alexander Haumann (alexander.haumann@awi.de) for further information.
 
 This full time position is limited to 2 years. It is also suitable for part-time employment. The salary will be paid in accordance with the Collective Agreement for the Public Service of the Federation (Tarifvertrag des öffentlichen Dienstes, TVöD Bund), up to salary level 13. The place of employment will be Bremerhaven.
 
@@ -70,6 +70,6 @@ The AWI fosters the compatibility of work and family in various ways and has rec
 
 We look forward to your application!
 
-Please submit your application by February 12th 2023, exclusively online: [https://jobs.awi.de/Vacancies/1242/Description/2]
+Please submit your application by February 12th 2023, exclusively online: [https://jobs.awi.de/Vacancies/1242/Description/2](https://jobs.awi.de/Vacancies/1242/Description/2)
 
 Reference number: 23/6/D/Kli-b
