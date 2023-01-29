@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ocean Currents: Open Source Python programmer (Honolulu, Hawaii)
+title: Open Source Python programmer for ocean currents (Honolulu, Hawaii)
 subtitle: University of Hawaii
 tags: [software engineer, USA, numerical modelling, observations]
 comments: false
