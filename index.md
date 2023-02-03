@@ -13,17 +13,22 @@ We are a community that provides networking opportunities, mentoring, conference
 
 ## Important Updates
 
-### IAPSO Early Career Scientist Medals for the year 2023
-The call for nomination for the recipients of the IAPSO Early Career Scientist Medals for the year 2023 is open until 10 January, 2023. Please follow this [link for details](https://iapso-ocean.org/resources/news-archive/206-iapso-early-career-scientist-medals-2023.html).
+### GO-SHIP cruise opportunity
+
+US GO-SHIP is looking for students and early career scientists/technicians to participate in a summer 2023 hydrographic expedition occupying the 32S line in the Indian Ocean aboard the R/V Revelle.
+
+The ship will depart from Fremantle Australia in late July.
+After 55 days of at-sea hydrographic operations, it will arrive Cape Town South Africa in mid-September.
+
+There are 6 positions available. Please find more information about this opportunity including the positions available and how to apply in the full advertisement [here](https://usgoship.ucsd.edu/wp-content/uploads/sites/353/GO-SHIP_I05_2023_Student_Opportunity.pdf).
+
+Deadline for applications is: February 21, 2023 (or until filled)
 
 ### IUGG 2023
 Abstract submission for IUGG 2023 in Berlin, 11-20 July 2023, is now open and closes on 14 February 2023. Please consider submitting an abstract [here](https://www.iugg2023berlin.org/abstract-submission/). IAPSO sessions will last from 12-17 July 2023. Stay tuned for updates, such as Early Career Scientists events.
 
 ### Manifesto for Early Career Researchers
 The Initiative for Science in Europe (ISE) published a [manifesto for Early Career Researchers](https://initiative-se.eu/manifesto/) to call for broad and robust support to early career investigators and scholars in times of uncertainty.
-
-### I05 Co-Chief Scientist Opportunity
-US GO-SHIP is seeking a co-chief scientist for the I05 occupation. Early career scientists are encouraged to apply. More details can be found [here]({% link career/cruises.md %}).
 
 ### Joint ECS efforts are critical to furthering our understanding of the oceans
 Early career scientist networks are rapidly growing, help you to contribute to the community, and help to further our understanding of the ocean. Check out this [new EGU blog post](https://blogs.egu.eu/divisions/os/2021/06/25/ocean-networks-1/) by IAPSO ECS committee member [Arvind Singh]({% link aboutus.md %}) to read more about the importances of ECS networks in our community.
