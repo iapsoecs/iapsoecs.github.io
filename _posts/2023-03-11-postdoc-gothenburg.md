@@ -17,4 +17,4 @@ This is a full-time position for two years, with the possibility to extend to th
 
 The deadline for the application is 31 March 2023.
 
-Feel free to contact me if you have any inquiries about the position: hans.chen@chalmers.se<mailto:hans.chen@chalmers.se>
+Feel free to contact me if you have any inquiries about the position: hans.chen@chalmers.se
