@@ -2,7 +2,7 @@
 layout: post
 title: Tenure position in ecological modelling (Saint John, Canada)
 subtitle: University of New Brunswick
-tags: [tenure, Canada, numerical modelling, biogeochemistry]
+tags: [tenure, Canada, numerical modelling, biogeochemistry, coastal ocean]
 comments: false
 ---
 The Departments of Biological Sciences and Mathematics and Statistics of the Faculty of Science, Applied Science, and Engineering, at the University of New Brunswick's Saint John campus jointly invite applications for a Tier 2 NSERC Canada Research Chair in Ecological Modelling.
