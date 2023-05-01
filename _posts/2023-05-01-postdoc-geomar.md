@@ -21,13 +21,13 @@ We are looking for a creative and committed scientist with a MSc degree in a nat
 
 At a workplace, directly on the Kiel Fjord with many leisure and recreational opportunities, we offer you:
 
-    Good conditions for work-life balance: We offer, among other things, the possibility of mobile working and individual working time arrangements, vacation courses for the children of our employees, and good support in finding a place in a daycare center at the Kiel site
-    Support services for professional and personal life situations
-    An exciting work environment with the opportunity to provide important impetus for the development of sustainable solutions
-    Exciting topics in an international environment
-    Work in the field of marine and climate research, a forward-looking area with social significance
-    30 vacation days + additional time off at Christmas and New Year's Eve
-    Company pension plan and capital-forming benefits
+    - Good conditions for work-life balance: We offer, among other things, the possibility of mobile working and individual working time arrangements, vacation courses for the children of our employees, and good support in finding a place in a daycare center at the Kiel site
+    - Support services for professional and personal life situations
+    - An exciting work environment with the opportunity to provide important impetus for the development of sustainable solutions
+    - Exciting topics in an international environment
+    - Work in the field of marine and climate research, a forward-looking area with social significance
+    - 30 vacation days + additional time off at Christmas and New Year's Eve
+    - Company pension plan and capital-forming benefits
 
 The position is limited to 3.5 years.
 
