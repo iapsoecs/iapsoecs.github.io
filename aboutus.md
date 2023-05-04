@@ -93,7 +93,7 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Jesse Cusack (USA, member):</strong>
-	Jesse is a postdoc in the Polar Coastal Ocean Dynamics group at Rutgers University. He studies small scale physical processes in the deep ocean, such as turbulence, internal waves, as well as turbulent processes at the ice-ocean boundary. He greatly enjoys going to sea to collect observations, and while on land spends his free time rock climbing or hiking.</p>
+	Jesse is an Assistant Professor at Oregon State University. He researches small scale physical processes in the ocean, such as turbulence, internal waves, as well as turbulent processes at the ice-ocean boundary. He greatly enjoys going to sea to collect observations, and while on land spends his free time rock climbing or hiking.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://jessecusack.github.io/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/jesse.jpg" alt="Jesse Cusack" class="profile-image"/></a>
