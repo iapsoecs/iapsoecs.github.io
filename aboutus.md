@@ -67,7 +67,7 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Kay McMonigal (USA, member):</strong>
-	Kay is a fifth year PhD student working with Prof. Lisa Beal at the Rosenstiel School of Marine and Atmospheric Sciences, University of Miami. His work focuses on observations of the Agulhas Current. In addition to the Indian Ocean, he loves running, reading, and beer.</p>
+	 Kay is an Assistant Professor of Oceanography at University of Alaska Fairbanks. His work focuses on how ocean currents are changing due to climate change, and the impacts this has on local, regional, and global climate. For a healthy work-life balance, Kay enjoys running and reading.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="http://kmcmonigal.com" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/kay.jpg" alt="Kay McMonigal" class="profile-image"/></a>
