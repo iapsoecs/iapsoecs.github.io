@@ -27,20 +27,7 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Alejandra Sanchez-Franks (UK, chairperson):</strong>
-	Alejandra is a research scientist in the Marine Physics and Ocean Climate Group at the National Oceanography Centre (NOC) in Southampton. She joined NOC after finishing her PhD in Stony Brook University, New York in April 2015 to work on the Bay of Bengal Boundary Layer Experiment (BoBBLE) project, which is a joint collaboration between the UK and India investigating the role of the Bay of Bengal in monsoon variability. As of January 2019, she has joined the RAPID-AMOC (project monitoring the Atlantic meridional overturning circulation) team.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="https://www.noc.ac.uk/people/alsf" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alejandra.jpg" alt="Alejandra Sanchez-Franks " class="profile-image"/></a>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Malin Ödalen (Germany, vice-chairperson):</strong>
+	<p><strong>Malin Ödalen (Germany, chairperson):</strong>
 	Malin is a post-doctoral researcher at the GEOMAR Helmholtz Centre for Ocean Research in Kiel, Germany, working in the SO-CHIC project. She is a modeller with a PhD from Stockholm University (2019) who is interested in physical and biogeochemical aspects of the ocean’s role in the climate system. Her research topics are Southern Ocean processes, and global ocean carbon storage across climate states. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.</p>
 	</td>
 	<td width="24%" class="profile-cell">
@@ -67,7 +54,7 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Kay McMonigal (USA, member):</strong>
-	Kay is a fifth year PhD student working with Prof. Lisa Beal at the Rosenstiel School of Marine and Atmospheric Sciences, University of Miami. His work focuses on observations of the Agulhas Current. In addition to the Indian Ocean, he loves running, reading, and beer.</p>
+	Kay is an Assistant Professor of Oceanography at University of Alaska Fairbanks. His work focuses on how ocean currents are changing due to climate change, and the impacts this has on local, regional, and global climate. For a healthy work-life balance, Kay enjoys running and reading.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="http://kmcmonigal.com" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/kay.jpg" alt="Kay McMonigal" class="profile-image"/></a>
@@ -131,8 +118,8 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Mujeeb Akanbi Abdulfatai (Nigeria, member):</strong>
-	Mujeeb is a NF-POGO Centre of Excellence for Observational Oceanography scholar at the Alfred Wegener Institute (AWI) in Germany. He recently concluded his Masters research study where he developed noise-filtering methods to remove small-scale noises from the wide swath Sea Water and Ocean Topography (SWOT) satellite images. The SWOT satellite mission is a BOOST-SWOT project backed by JPL-NASA/CNES/MEOM group. He enjoys going on research cruises, coding and watching football.</p>
+	<p><strong>Mujeeb Akanbi Abdulfatai (USA, member):</strong>
+	Mujeeb is a first-year PhD student working with Prof Maarten Buijsman at the Department of Marine Sciences, University of Southern Mississippi, USA. His work focuses on diagnosing internal waves in the Pacific Ocean. He recently concluded research on estimating the Ocean Heat Content along the Atlantic Ocean advised by Prof Peter Lemke. He enjoys going on research cruises, coding and watching soccer.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<img src="../uploads/bio_photos/Mujeeb.png" alt="Mujeeb Akanbi Abdulfatai" class="profile-image"/>
@@ -154,7 +141,34 @@ bigimg:
 </table>
 
 
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Cathy Wimart-Rousseau (Germany, member):</strong>
+	Cathy is a post-doctoral researcher in chemical oceanography at GEOMAR (Kiel, Germany). Her research focuses on the marine carbon cycle as well as the CO2 exchanges at the air-sea interface. For this purpose, she deals with in situ data measured by numerous autonomous platforms (ex. BGC-Argo floats) and works on the enhancement of float-pH data QC methods. She collaborates internationally in both the EA-RISE and EuroSea projects. When she is not onboarding a research vessel to collect data or deploy a float, Cathy enjoys reading, running, and outdoor activities in general.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<img src="../uploads/bio_photos/cathy.jpg" alt="Cathy Wimart-Rousseau" class="profile-image"/>
+	</td>
+	</tr>
+</table>
+
+
 ## Former committee members
+
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Alejandra Sanchez-Franks (UK, chairperson):</strong>
+	Alejandra is a research scientist in the Marine Physics and Ocean Climate Group at the National Oceanography Centre (NOC) in Southampton. She joined NOC after finishing her PhD in Stony Brook University, New York in April 2015 to work on the Bay of Bengal Boundary Layer Experiment (BoBBLE) project, which is a joint collaboration between the UK and India investigating the role of the Bay of Bengal in monsoon variability. As of January 2019, she has joined the RAPID-AMOC (project monitoring the Atlantic meridional overturning circulation) team.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://www.noc.ac.uk/people/alsf" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alejandra.jpg" alt="Alejandra Sanchez-Franks " class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
 
 <table class="profile-tab">
 	<tr  class="profile-cell">
