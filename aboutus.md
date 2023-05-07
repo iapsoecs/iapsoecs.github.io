@@ -54,7 +54,7 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Kay McMonigal (USA, member):</strong>
-	Kay is an Assistant Professor of Oceanography at University of Alaska Fairbanks. His work focuses on how ocean currents are changing due to climate change, and the impacts this has on local, regional, and global climate. For a healthy work-life balance, Kay enjoys running and reading.</p>
+	 Kay is an Assistant Professor of Oceanography at University of Alaska Fairbanks. His work focuses on how ocean currents are changing due to climate change, and the impacts this has on local, regional, and global climate. For a healthy work-life balance, Kay enjoys running and reading.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="http://kmcmonigal.com" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/kay.jpg" alt="Kay McMonigal" class="profile-image"/></a>
@@ -105,8 +105,8 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Alex Haumann (USA, member):</strong>
-	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between ice, ocean, atmosphere, and the carbon cycle. He received his PhD from ETH Zurich (2016). Currently, Alex is an Associate Research Scholar at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition. Alex enjoys cooking, hiking, travelling, snowboarding, and the outdoors in general.</p>
+	<p><strong>Alex Haumann (Germany, member):</strong>
+	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between ocean, ice, atmosphere, and the global carbon and water cycles. He received his PhD from ETH Zurich (2016). Until 2022, he worked as Associate Research Scholar at Princeton University and he is a BAS honorary researcher. Since 2023, he is a research group leader at the Alfred Wegener Institute and a Professor at the Ludwig-Maximilian-Universtiy Munich. Alex enjoys cooking, hiking, travelling, snowboarding, and the outdoors in general.</p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.ahaumann.net" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image"/></a>
