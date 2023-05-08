@@ -11,21 +11,21 @@ A candidate is sought with expertise in coupled system modelling, in particular 
 
 The Earth and Atmospheric Sciences Department offers programs in atmospheric sciences at both the undergraduate and graduate levels (BSc, MSc and PhD). The department houses the Centre ESCER (http://www.escer.uqam.ca/index.html), which is internationally renowned for its contributions to the fields of regional climate modelling, data assimilation, remote sensing, radiation, cloud and precipitation physics, the impact of aerosols on climate, land-atmosphere interactions and feedbacks, and hydro- meteorological extremes. 
 
-Position summary 
+**Position summary**
 
-Research in the area of interest  (climate dynamics; paleoclimate; urban climate; etc. …)
+Research in the area of interest (climate dynamics; paleoclimate; urban climate; etc. …)
 
- Importing and installation of climate models in Compute Canada high performing computers
+Importing and installation of climate models in Compute Canada high performing computers
 
 Database management
 
- Requirements for the position
+**Requirements for the position**
 
- PhD in climate sciences, meteorology, oceanography or a closely related field;
+PhD in climate sciences, meteorology, oceanography or a closely related field;
 
 Postdoctoral experience of at least 3 years;
 
- Excellent research track record with publications in peer-reviewed journals ;
+Excellent research track record with publications in peer-reviewed journals ;
 
 Advance knowledge of high performing computers;
 
@@ -35,7 +35,7 @@ Advance knowledge of programming languages like FORTRAN;
 
 Strong communication skills (oral and written) in English .
 
-Assets 
+**Assets**
 
 Knowledge of the following climate models: CESM, NEMO, MITgcm or other ocean and coupled models;
 
@@ -47,11 +47,11 @@ Knowledge of Phyton, Matlab, Unix.
 
 Knowledge of French.
 
-Starting date: Winter 2024
+**Starting date:** Winter 2024
 
- Salary: The salary will range from approximately 65,000$ to 80,000$, depending on experience and according to the collective agreement SEUQAM. Moreover, foreign researchers will benefit from the provincial tax break for 5 years (100% for the first two). 
+**Salary:** The salary will range from approximately 65,000$ to 80,000$, depending on experience and according to the collective agreement SEUQAM. Moreover, foreign researchers will benefit from the provincial tax break for 5 years (100% for the first two). 
 
-How to Apply
+**How to Apply**
 
 Applicants must submit their application by e-mail to francesco.pausata@uqam.ca
 
