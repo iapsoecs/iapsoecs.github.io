@@ -154,6 +154,19 @@ bigimg:
 </table>
 
 
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Aditya Narayanan (Sweden, member):</strong>
+	Aditya Narayanan obtained his Ph.D. studying Antarctic marginal sea watermasses from the Department of Ocean Engineering at the Indian Institute of Technology Madras in 2020. He then worked on Southern Ocean polynyas as a postdoctoral researcher at the Department of Marine Sciences, University of Gothenburg Sweden until recently. He works now as a postdoctoral researcher at the Faculty of Environmental and Life Sciences, University of Southampton. He studies oceanic heat transport towards the Amundsen Sea. His research interests include Southern Ocean dynamics, ice-ocean interaction, and oceanic heat transport. Trail running is one of his favorite activities throughout the year!</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://adityarn.github.io/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/aditya.jpg" alt="Aditya Narayanan" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+
 ## Former committee members
 
 
