@@ -118,7 +118,7 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Mujeeb Akanbi Abdulfatai (USA, member):</strong>
+	<p><strong>Mujeeb Akanbi Abdulfatai (Nigeria, member):</strong>
 	Mujeeb is a first-year PhD student working with Prof Maarten Buijsman at the Department of Marine Sciences, University of Southern Mississippi, USA. His work focuses on diagnosing internal waves in the Pacific Ocean. He recently concluded research on estimating the Ocean Heat Content along the Atlantic Ocean advised by Prof Peter Lemke. He enjoys going on research cruises, coding and watching soccer.</p>
 	</td>
 	<td width="24%" class="profile-cell">
