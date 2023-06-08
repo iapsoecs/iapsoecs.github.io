@@ -8,6 +8,7 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 
 ## Contents
 
+* [Issue 9, June 2023](#june-2023-issue-9)
 * [Issue 8, February 2023](#february-2023-issue-8)
 * [Issue 7, June 2021](#june-2021-issue-7)
 * [Issue 6, April 2021](#april-2021-issue-6)
@@ -16,6 +17,16 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 * [Issue 3, April 2020](#april-2020-issue-3)
 * [Issue 2, November 2019](#november-2019-issue-2)
 * [Issue 1, July 2019](#july-2020-issue-1)
+
+### June 2023 Issue 9
+<div class="news-container">
+  <a title="IAPSO ECS Newsletter, 2023, 9" href="/uploads/newsletter/iapsoecs_2023_9.pdf" target='_blank'>
+  <img src="/uploads/newsletter/iapsoecs_2023_9_thumbnail.png" alt="IAPSO ECS Newsletter, 2023, 9" class="news-image">
+  <div class="news-overlay">
+    <div class="news-text">Click to download pdf (4.9 MB)</div>
+  </div>
+  </a>
+</div>
 
 ### February 2023 Issue 8
 <div class="news-container">
