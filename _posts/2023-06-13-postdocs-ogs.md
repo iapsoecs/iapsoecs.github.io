@@ -10,10 +10,14 @@ In the frame of the project RETURN (multi-Risk sciEnce for resilienT commUnities
 Topic: Data science applied to the analysis of environmental, natural and anthropogenic risks in the marine environment
 
 Profile 1. Analysis of marine environmental data obtained using models and calculation of hazard indicators.
+
 Profile 2. Analysis of marine environmental data in relation to different climatic and socio-economic scenarios.
+
 Profile 3. Modelling the bioaccumulation of pollutant compounds in food webs.
 
 For all info: https://www.ogs.it/it/concorsi/bando-292023-selezione-pubblica-titoli-e-colloquio-il-conferimento-di-n-3-assegni-di
+
 For more info on ECHO group: https://www.ogs.it/en/dynamics-ecosystems-and-computational-oceanography
+
 For specific inquiries about the call, please contact concorsi@ogs.it
 
