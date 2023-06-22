@@ -13,16 +13,15 @@ We are a community that provides networking opportunities, mentoring, conference
 
 ## Important Updates
 
+### IUGG Berlin 2023 General Assembly (11-20 July)
+The IUGG 2023 General Assembly will start soon in Berlin! The programme overview is [here](https://www.iugg2023berlin.org/program-at-glance/). IAPSO sessions will last from 12-17 July 2023. Three events for Early Career Scientists are planned, check out and register [here](https://www.iugg2023berlin.org/ecs-events/).
+
 ### Webinar: Introducing Ocean Networks for Early Career Ocean Professionals
 *When: Thursday 25 May 2023 15.00 CEST for 90 minutes*
 
 Join coordinators of Early Career Research networks of Future Earth for an integrated session on each network and an individual presentation of what resources are available for Early Career Ocean Professionals (ECOP). The session will conclude with an interactive discussion of ECOPs' needs.
 
 [Register for the zoom](https://us06web.zoom.us/meeting/register/tZIucOmhpjopH9PAaeSx9D-5VmQ14GPsZ9iw#/registration)
-
-
-### IUGG 2023
-Abstract submission for IUGG 2023 in Berlin, 11-20 July 2023, is now open and closes on 14 February 2023. Please consider submitting an abstract [here](https://www.iugg2023berlin.org/abstract-submission/). IAPSO sessions will last from 12-17 July 2023. Stay tuned for updates, such as Early Career Scientists events.
 
 ### Manifesto for Early Career Researchers
 The Initiative for Science in Europe (ISE) published a [manifesto for Early Career Researchers](https://initiative-se.eu/manifesto/) to call for broad and robust support to early career investigators and scholars in times of uncertainty.
