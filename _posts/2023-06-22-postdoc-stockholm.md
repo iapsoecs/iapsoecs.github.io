@@ -25,6 +25,6 @@ RT 4 – Climate, ecosystems and biodiversity
 
 Candidates are encouraged to submit an individual research plan, and in developing one the candidate is expected to link their proposed research to at least one of the Bolin Centre RTs. During the recruitment process, contacts between the successful candidate(s) and 2-3 Bolin scientists acting as potential mentors of the fellows will be established. If the applicants wish to do so, they can identify potential mentors already in their application, but this is not expected or necessary. The successful candidates will eventually agree on the details of their project with the host institution. Up to 4 postdoctoral fellows will be chosen.
 
-**More informatiom at:**
+**More information at:**
 
 https://www.su.se/english/about-the-university/work-at-su/available-jobs?rmpage=job&rmjob=21069&rmlang=UK
