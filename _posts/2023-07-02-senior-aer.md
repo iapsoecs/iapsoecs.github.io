@@ -15,4 +15,8 @@ About the Day-to-Day Responsibilities of the Role
 
 In addition, as a new member of AER’s internationally recognized Research and Development Division, you will be provided with (1) ample opportunities to collaborate with scientists at AER and other research institutions and (2) both individual and team mentorship to develop your own externally-funded research program.
 
-Submit applications at: https://jobs.smartrecruiters.com/Verisk/743999916060437-senior-research-associate and please feel free to forward this advertisement to other colleagues. Apologies for cross-postings!
+Submit applications at: 
+
+https://jobs.smartrecruiters.com/Verisk/743999916060437-senior-research-associate 
+
+and please feel free to forward this advertisement to other colleagues. Apologies for cross-postings!
