@@ -21,7 +21,7 @@ The IUGG 2023 General Assembly will start soon in Berlin! The programme overview
 
 Coordinators of Early Career Research networks of Future Earth gathered for an integrated session on each network and an individual presentation of what resources are available for Early Career Ocean Professionals (ECOPs). The session concluded with an interactive discussion of ECOPs' needs.
 
-[Recording available here]([https://us06web.zoom.us/rec/share/LJUbGv9ojqUUpp9B8gjVqQwul2Ytp0PgWJLtek_2_M6fk7iDduFn7XtGeZiLn0cP.8vSQdQ74fsh1Ioj5?startTime=1685019700000]), passcode: QJ6?XU#V
+[Recording available here](https://us06web.zoom.us/rec/share/LJUbGv9ojqUUpp9B8gjVqQwul2Ytp0PgWJLtek_2_M6fk7iDduFn7XtGeZiLn0cP.8vSQdQ74fsh1Ioj5?startTime=1685019700000), passcode: QJ6?XU#V
 
 ### Manifesto for Early Career Researchers
 The Initiative for Science in Europe (ISE) published a [manifesto for Early Career Researchers](https://initiative-se.eu/manifesto/) to call for broad and robust support to early career investigators and scholars in times of uncertainty.
