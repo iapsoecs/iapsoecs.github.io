@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientific software developer the digital twin of the ocean (Lecce, Italy)
+title: Scientific software developer for the digital twin of the ocean (Lecce, Italy)
 subtitle: CMCC Foundation
 tags: [developer, Italy, numerical modelling, digital twin]
 comments: false
