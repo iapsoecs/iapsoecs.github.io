@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in cliamte physics and machine learning (New York)
+title: Postdoc position in climate physics and machine learning (New York)
 subtitle: New York University
 tags: [postdoc, USA, numerical modelling, machine learning, air-sea interactions, turbulence]
 comments: false
