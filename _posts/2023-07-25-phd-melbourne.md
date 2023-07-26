@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD positions in cliamte dynamics (Melbourne, Australia)
+title: PhD positions in climate dynamics (Melbourne, Australia)
 subtitle: Monash University
 tags: [PhD, Australia, climate, extreme events, El Nino, Southern Ocean]
 comments: false
