@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Senior research sciemtist in climate modelling (Singapore)
+title: Senior research scientist in climate modelling (Singapore)
 subtitle: Centre for Climate Research Singapore (CCRS)
 tags: [Singapore, numerical modelling, Southeast Asia]
 comments: false
