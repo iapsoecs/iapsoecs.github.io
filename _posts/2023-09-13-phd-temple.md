@@ -1,0 +1,16 @@
+---
+layout: post
+title: PhD position on ocean circulation at the Antarctic margin (Philadelphia, Pennsylvania)
+subtitle: Temple University
+tags: [PhD, USA, numerical modelling, Southern Ocean]
+comments: false
+---
+Funded PhD Opportunity: Deepening our Understanding of Ocean Circulation at the Antarctic Margin.
+
+The Ocean Climate Connections (OCC) lab (https://sites.temple.edu/oceanclimateconnections/) led by Dr. Becki Beadling in the Earth and Environmental Sciences (EES) Department at Temple University is seeking to fill a fully funded Ph.D. position for Fall 2024. Research in the OCC lab is centered on understanding the role of the ocean in the climate system ? its present state, future evolution, and coupled processes between the ocean and other components of the climate system. The OCC lab specializes in evaluating the performance of climate models in representing ocean processes and properties, developing diagnostics to build a process-level understanding of model performance and climate projections, coupled ocean ? climate processes, Southern Ocean physical and biogeochemical dynamics, and ice-ocean processes along the Antarctic margin. The OCC lab runs its own high-performance analysis and data storage system for analysis of observations and climate model simulations, putting state of the art computing at your fingertips.
+
+The prospective graduate student will collaborate with Co-Investigator Matthew Mazloff at UCSD Scripps Institution of Oceanography and collaborators at NOAA?s Geophysical Fluid Dynamics Laboratory (NOAA-GFDL) on a NSF-funded project seeking to improve our understanding of the dynamics of the Antarctic Slope Current (ASC) and the role it plays in the climate system. The student will utilize a hierarchy of state-of-the-science observationally constrained and validated physical and biogeochemical ocean state estimates and fully coupled climate model simulations to address existing knowledge gaps pertaining to the ASC. The results from this work are expected to provide foundational knowledge on the ASC's climatological state and structure, its variability, and its role in the evolving climate system.
+
+Prospective students should have a strong interest in climate science and oceanography and must have strong quantitative skills. Prospective students should be proficient in the Python programming language and familiarity with python packages for analyzing observational datasets and climate model output is a plus.
+
+Temple's EES department offers a M.S. degree in Environmental Geoscience and a Ph.D. in Geosciences, with an application deadline for Fall 2024 admission in mid-January. Prospective candidates are strongly encouraged to reach out to Dr. Becki Beadling via email at rebecca.beadling@temple.edu with a short introduction including background and interests and a copy of their CV. Both M.S. and Ph.D. students are provided with a fully funded competitive stipend including tuition coverage and health insurance. Please the EES web page for further information on the program and requirements: https://cst.temple.edu/research-priorities-departments/departments/department-earth-environmental-science/academics/prospective-graduate-students.
