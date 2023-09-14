@@ -11,7 +11,7 @@ The position is part of a NERC funded project, DeCAdeS:  Drivers of Oceanic Chan
 
 This position is led by Dr Julie Jones of the University of Sheffield, and is jointly supervised by Dr Tom Bracegirdle of the British Antarctic Survey in Cambridge.
 
-The closing date for applications is 7th September 2023.  
+The closing date for applications is 18th September 2023.  
 
 Salary:  £37,099 - £45,585 with potential to increase to £49,794 through sustained exceptional contribution.
 
