@@ -29,3 +29,5 @@ scales will be developed by comparing assimilation results with and without SWOT
 assimilation techniques developed at MOI (multi-scale, ensemble approaches) will also be tested.
 Ensemble approaches will be used, in particular, to assess the predictability of mesoscale/submesocale
 signals.
+
+Link: https://www.mercator-ocean.eu/offres-d-emploi/
