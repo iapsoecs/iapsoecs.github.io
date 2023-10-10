@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phd position in coastal biogeochemistry (Hong Kong, China)
+title: PhD position in coastal biogeochemistry (Hong Kong, China)
 subtitle: Chinese University of Hong Kong
 tags: [PhD, China, coastal ocean, biogeochemistry]
 comments: false
