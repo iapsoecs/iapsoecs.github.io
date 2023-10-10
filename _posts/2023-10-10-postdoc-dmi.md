@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in regional ocean modelling (Reading, Denmark)
+title: Postdoc position in regional ocean modelling (Copenhagen, Denmark)
 subtitle: Danish Meteorological Institute
 tags: [postdoc, Denmark, numerical modelling]
 comments: false
