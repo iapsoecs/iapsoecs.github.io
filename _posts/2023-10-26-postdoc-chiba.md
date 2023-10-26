@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in paleoclimate Rrconstruction (Chiba, Japan)
+title: Postdoc position in paleoclimate reconstruction (Chiba, Japan)
 subtitle: Chiba University
 tags: [postdoc, Japan, numerical modelling, observations, data assimilation, paleoclimate]
 comments: false
