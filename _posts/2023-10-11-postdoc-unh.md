@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postdoc position in the physics of sea level and modeling coastal sea-level change (Durham, New Hampshire)
-subtitle: UUniversity of New Hampshire
+subtitle: University of New Hampshire
 tags: [postdoc, USA, numerical modelling, coastal ocean, sea level rise]
 comments: false
 ---
