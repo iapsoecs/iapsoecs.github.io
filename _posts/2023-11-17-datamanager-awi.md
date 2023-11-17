@@ -66,5 +66,5 @@ The AWI fosters the compatibility of work and family in various ways and has rec
 
 **We look forward to your application!**
 
-Please submit your application by **December 5th 2023**, exclusively online.
+Please submit your application by **December 5th 2023**, exclusively online: [https://jobs.awi.de/Vacancies/1541/Description/2](https://jobs.awi.de/Vacancies/1541/Description/2)
 Reference number: 23/202/D/Kli-b
