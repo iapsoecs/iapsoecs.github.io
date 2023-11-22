@@ -1,0 +1,20 @@
+---
+layout: post
+title: Postdoc position in machine-learned subgrid ocean physics (Princeton, New Jersey)
+subtitle: Princeton University
+tags: [postdoc, USA, numerical modelling, machine learning, parameterization]
+comments: false
+---
+The Atmospheric and Oceanic Sciences Program at Princeton University, in association with NOAA's Geophysical Fluid Dynamics Laboratory (GFDL), seeks a postdoctoral or more senior research scientist to conduct research on developing and using machine learned parameterizations developed from ocean-data assimilation increments. The goal is to develop parameterizations of unresolved processes that will improve ocean circulation models. A neural network has already been demonstrated to model the misfit between the ocean model and observations. The new research will involve training a new machine-learned model to represent some missing physics contained within this dataset, interpret the new model, implement it as a parameterization in a global circulation model (MOM6), and evaluate the new parameterization within a global-scale climate model.
+
+The work is part of a larger project, M2LInES, covering eleven institutions. The overall goal is to reduce climate model biases at the air-sea/ice interface by improving subgrid physics in the ocean, sea ice and atmosphere components of existing coarse (?? to 1?) resolution IPCC-class climate models, and their coupling, using machine learning. This part of the research at Princeton University/GFDL will involve working with the SPEAR ocean data assimilation system and the MOM6 ocean circulation model. The prognostic parameterizations will be state-dependent and trained to minimize model-observation misfits with the aim of reducing inherent biases in free-running climate simulations. The research will require analysis and interpretation of model output, the management of large datasets and the application of neural nets or other machine learning techniques to those data. The postdoc will be expected to collaborate with other postdocs at Princeton and with other members of the M2LInES project across multiple institutions.
+
+In addition to a quantitative background, the selected candidates will ideally have one or more of the following attributes: a) a background in physical oceanography, or machine learning, or a closely related field; b) experience with ocean-circulation or climate models, or ocean data-assimilation systems; and c) experience, or demonstrated interest, in machine learning.
+
+Candidates must have a Ph.D. and preferably in oceanography, geophysical fluid dynamics, computer science, or a closely related field. The initial appointment is for one year with the possibility of a second-year renewal subject to satisfactory performance and available funding.
+
+Complete applications, including a cover letter, CV, publication list, research statement (no more than 2 pages incl. references), and 3 letters of recommendation should be submitted by December 22, 2023, 11:59 pm EST for full consideration.
+
+Princeton is interested in candidates who, through their research, will contribute to the diversity and excellence of the academic community. Applicants should apply online to https://www.princeton.edu/acad-positions/position/32681. For additional information contact Dr. Feiyu Lu (feiyu.lu@princeton.edu) or Dr. Alistair Adcroft (aadcroft@princeton.edu).
+
+The work location for this position is in-person on campus at Princeton University. This position is subject to Princeton University's background check policy which will include meeting the security requirements for accessing the NOAA Geophysical Fluid Dynamics Laboratory. Princeton University is an equal opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law.
