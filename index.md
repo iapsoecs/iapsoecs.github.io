@@ -14,7 +14,7 @@ We are a community that provides networking opportunities, mentoring, conference
 ## Important Updates
 
 ### IUGG Berlin 2023 General Assembly (11-20 July)
-The IUGG 2023 General Assembly will start soon in Berlin! The programme overview is [here](https://www.iugg2023berlin.org/program-at-glance/). IAPSO sessions will last from 12-17 July 2023. Three events for Early Career Scientists are planned, check out and register [here](https://www.iugg2023berlin.org/ecs-events/).
+The IUGG 2023 General Assembly took place last summer in Berlin. Three events for Early Career Scientists were organized, including a first IUGG-wide event.
 
 ### Webinar: Introducing Ocean Networks for Early Career Ocean Professionals
 *When: Thursday 25 May 2023 15.00 CEST*
