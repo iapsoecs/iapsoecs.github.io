@@ -7,7 +7,7 @@ comments: false
 ---
 The research group in Dynamics of Ecosystems and Computational
 Oceanography (ECHO) of the Oceanography Section of OGS
-(https://www.ogs.it/en <https://www.ogs.it/en>) opens a postdoc position on
+(https://www.ogs.it/en) opens a postdoc position on
 the topic of "Marine Ecosystem modelling".
 
 The postdoc activity will be carried out at the OGS offices in Trieste
