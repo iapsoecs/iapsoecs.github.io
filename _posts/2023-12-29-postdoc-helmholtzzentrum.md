@@ -45,4 +45,16 @@ We offer you
     - 6 weeks holiday per year; company holidays between Christmas and New Year's Day
     - very good compatibility of private and professional life through offers of mobile and flexible work
     - family-friendly company policy with childcare facilities, e.g. nursery close to the company
+
+Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements.
+
+Interested?
+
+Then we are looking forward to receiving your comprehensive application documents (cover letter, CV, transcripts, certificates etc.) indicating the reference number 2023/KS 12 until January 16th, 2024.
+
+Apply now
+
+https://jobs.hereon.de/sap/bc/erecruiting/applwzd?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTU2RTMzMUVFRUE3QjE4MEIyMTVGMUUzMjcmY2FuZF90eXBlPQ%3d%3d&sap-client=002
+
+Email: bewerbung@hereon.de
     - free assistance program for employees (EAP) Corporate Benefits
