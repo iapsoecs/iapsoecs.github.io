@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tenure-track position in microbial oceanography and pelagic ecosystem processes (Manoa, Hawaii)
+title: Tenure-track position in microbial oceanography and pelagic ecosystem processes (Honolulu, Hawaii)
 subtitle: University of Hawaii at Manoa (UHM)
 tags: [tenure, USA, marine ecosystems, biogeochemistry]
 comments: false
