@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in in subpolar ocean dynamics (Baltimore, Maryland)
+title: Postdoc position in subpolar ocean dynamics (Baltimore, Maryland)
 subtitle: Johns Hopkins University
 tags: [postdoc, USA, numerical modelling, North Atlantic]
 comments: false
