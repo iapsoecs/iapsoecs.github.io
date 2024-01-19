@@ -13,15 +13,15 @@ We are a community that provides networking opportunities, mentoring, conference
 
 ## Important Updates
 
+### European Marine Board
+
+The [European Marine Board](https://www.marineboard.eu/), with its Young Ambassadors, would like to promote and facilitate the work and career of early-career scientists working in EMB organizations. The [EMB ECOP Network](https://www.marineboard.eu/about-emb-ecop-network) aims at connecting Early Careers across Europe and proposes training and opportunity to link ocean science and policies at national and European levels. If you wish to be part of this initiative and be included in their communication loops, please fill this form: [link](https://docs.google.com/forms/d/e/1FAIpQLScWhpKrAbsxTu4_EeiA1LR128bXasOuwhrIkQZV4k4yilW-8w/viewform?pli=1). 
+The network is open to all self-identified Early Careers affiliated to one of the members of the European Marine Board (list [here](https://www.marineboard.eu/members)). You will be added to the mailing list and receive updates about EMB activities dedicated to Early careers (webinars, workshops, conferences, etc).
+
+In addition, In February 2024, EMB will be opening a new call for applications to the EMB Young Ambassador programme (to be circulated soon). You may want to contact Alexandra Hahn (RD3), currently a EMB Young Ambassador, and Rebecca Zitoun (RD4), past EMB Young Ambassador (2021-2023) if you have any questions.
+
 ### IUGG Berlin 2023 General Assembly (11-20 July)
 The IUGG 2023 General Assembly took place last summer in Berlin. Three events for Early Career Scientists were organized, including a first IUGG-wide event.
-
-### Webinar: Introducing Ocean Networks for Early Career Ocean Professionals
-*When: Thursday 25 May 2023 15.00 CEST*
-
-Coordinators of Early Career Research networks of Future Earth gathered for an integrated session on each network and an individual presentation of what resources are available for Early Career Ocean Professionals (ECOPs). The session concluded with an interactive discussion of ECOPs' needs.
-
-[Recording available here](https://us06web.zoom.us/rec/share/LJUbGv9ojqUUpp9B8gjVqQwul2Ytp0PgWJLtek_2_M6fk7iDduFn7XtGeZiLn0cP.8vSQdQ74fsh1Ioj5?startTime=1685019700000), passcode: QJ6?XU#V
 
 ### Manifesto for Early Career Researchers
 The Initiative for Science in Europe (ISE) published a [manifesto for Early Career Researchers](https://initiative-se.eu/manifesto/) to call for broad and robust support to early career investigators and scholars in times of uncertainty.
