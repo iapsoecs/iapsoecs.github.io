@@ -2,7 +2,7 @@
 layout: post
 title: Postdoc position in ocean surface boundary layer mixing (Princeton, New Jersey)
 subtitle: Princeton University
-tags: [postdoc, USA, numerical modelling, mixing parameterization, machine learning]
+tags: [postdoc, USA, numerical modelling, mixing, parameterization, machine learning]
 comments: false
 ---
 The Atmospheric and Oceanic Sciences Program at Princeton University, in association with NOAA's Geophysical Fluid Dynamics Laboratory (GFDL), seeks a postdoctoral or more senior scientist to conduct research on developing and using machine learned parameterizations for mixing in the ocean surface boundary layer. Our previous work has demonstrated the utility of using neural networks to improve ad-hoc components of the existing ocean surface boundary layer mixing parameterization in the GFDL ocean climate model (https://dx.doi.org/10.1029/2023MS003890). The new research will build on this work, specifically devoted to further improving other poorly constrained processes with the aid of a set of Large Eddy Simulations and other higher-order turbulence closure methods. This work will involverunning new simulations to generate training data, using Machine Learning techniques to infer modifications to the mixing parameterizations, implementing the scheme in a global circulation model (MOM6), and evaluating the new parameterization within a global-scale climate model.
