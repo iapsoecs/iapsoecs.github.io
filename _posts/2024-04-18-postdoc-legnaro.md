@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in adpative reponses of marine species to climate change (Legnaro, Italy)
+title: Postdoc position in adaptive reponses of marine species to climate change (Legnaro, Italy)
 subtitle: Legnaro National Laboratory, INFN
 tags: [postdoc, Italy, observations, marine ecosystems, climate change]
 comments: false
