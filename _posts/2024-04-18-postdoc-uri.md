@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position in Southern Ocean biogeochemistry (Kingtson, Rhode Island)
+title: Postdoc position in Southern Ocean biogeochemistry (Kingston, Rhode Island)
 subtitle: University of Rhode Island, University of California Santa Barbara
 tags: [postdoc, USA, paleoproxies, Southern Ocean, biogeochemistry]
 comments: false
