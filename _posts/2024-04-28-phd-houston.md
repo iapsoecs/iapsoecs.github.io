@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD position in climate dyanmics (Houston, Texas)
+title: PhD position in climate dynamics (Houston, Texas)
 subtitle: University of Houston
 tags: [PhD, USA, numerical modelling, ENSO, air-sea interactions]
 comments: false
