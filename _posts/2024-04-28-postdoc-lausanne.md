@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Equality grant" postdoc position in climate science (Lausanne, Switzerland)
+title: Equality grant postdoc position in climate science (Lausanne, Switzerland)
 subtitle: University of Lausanne
 tags: [postdoc, Switzerland, climate, air-sea interactions]
 comments: false
