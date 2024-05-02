@@ -2,7 +2,7 @@
 layout: post
 title: Post-Doctoral Position in physical/biogeochemical and individual based modeling
 subtitle: Oregon State University
-tags: [numerical simulations, biogeochemistry, marine carbon dioxide removal, postdoc]
+tags: [numerical simulations, biogeochemistry, marine carbon dioxide removal, postdoc, USA]
 comments: false
 ---
 
