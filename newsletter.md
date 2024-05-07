@@ -21,8 +21,8 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 
 ### May 2024 Issue 10
 <div class="news-container">
-  <a title="IAPSO ECS Newsletter, 2024, 10" href="/uploads/newsletter/iapsoecs_2024_10.pdf" target='_blank'>
-  <img src="/uploads/newsletter/iapsoecs_2024_10_thumbnail.png" alt="IAPSO ECS Newsletter, 2024, 10" class="news-image">
+  <a title="IAPSO ECS Newsletter, 2024, 10" href="/uploads/newsletter/iapsoecs_newsletter_2024_10.pdf" target='_blank'>
+  <img src="/uploads/newsletter/iapsoecs_newsletter_2024_10_thumbnail.png" alt="IAPSO ECS Newsletter, 2024, 10" class="news-image">
   <div class="news-overlay">
     <div class="news-text">Click to download pdf (6.4 MB)</div>
   </div>
