@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Position in coastal ocean modellimg (Fiji)
+title: Position in coastal ocean modelling (Fiji)
 subtitle: Geoscience, Energy and Maritime Division at the Pacific Community (SPC)
 tags: [postdoc, Fiji, numerical modelling, coastal ocean]
 comments: false
