@@ -13,6 +13,9 @@ We are a community that provides networking opportunities, mentoring, conference
 
 ## Important news and opportunities
 
+### Transnational access call 2024 for using polar research infrastructure
+The POLARIN project opened a [call](https://eu-polarin.eu/transnational-access-call-2024/) for access to major polar research infrastructure, including major research vessels. This call also targets early career scientists. Please refer to the [call](https://eu-polarin.eu/transnational-access-call-2024/) for further details.
+
 ### Cruise opportunity
 There is an opportunity to join a research cruise aboard the R/V Marcus G. Langseth offshore southern Mexico in May/June 2025. Please see the [call for participation](https://mailchi.mp/ldeo/langseth-mexico) for further details. The application deadline is November 1st, 2024.
 
