@@ -6,16 +6,8 @@ use-site-title: true
 
 Taking part in a research cruise is a great experience that should be available to all oceanographers. However, news of cruise opportunities often travels by word of mouth or email lists within institutions. If you are not directly involved in a project that has upcoming cruises, you will need to talk to project PIs to see if they need more participants. Some opportunities are more widely advertised, and we have tried to compile a list of them below.
 
-### GO-SHIP cruise opportunity
-
-US GO-SHIP is looking for students and early career scientists/technicians to participate in a summer 2023 hydrographic expedition occupying the 32S line in the Indian Ocean aboard the R/V Revelle.
-
-The ship will depart from Fremantle Australia in late July.
-After 55 days of at-sea hydrographic operations, it will arrive Cape Town South Africa in mid-September.
-
-There are 6 positions available. Please find more information about this opportunity including the positions available and how to apply in the full advertisement [here](https://usgoship.ucsd.edu/wp-content/uploads/sites/353/GO-SHIP_I05_2023_Student_Opportunity.pdf).
-
-Deadline for applications is: February 21, 2023 (or until filled)
+### Call for Participation: Research cruise offshore southern Mexico aboard R/V Marcus G. Langseth
+There is an opportunity to join a research cruise aboard the R/V Marcus G. Langseth offshore southern Mexico in May/June 2025. Please see the [call for participation](https://mailchi.mp/ldeo/langseth-mexico) for further details. The application deadline is November 1st, 2024.
 
 
 ## UNOLS cruise opportunities (U.S. Only)
