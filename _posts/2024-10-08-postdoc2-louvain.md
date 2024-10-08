@@ -5,8 +5,6 @@ subtitle: Université Catholique de Louvain
 tags: [postdoc, Belgium, numerical modelling, mesoscale eddies, sea ice]
 comments: false
 ---
-Post-doctoral scientist position at the UCLouvain, Belgium, 
-
 The position is open within the Horizon Europe project ‘European Eddy-Rich Earth System Models’ (EERIE, https://eerie-project.eu/) which gathers 17 leading institutes from Europe and beyond. The goal of EERIE is to understand the role of ocean mesoscale processes on climate variability and changes over seasonal to centennial time scales in order to improve climate predictions and projections. This implies the development of new Earth System Models able to explicitly represent the ocean mesoscale and its impact on the climate dynamics as well as the analysis of new simulations performed with those models. The main contributions of UCLouvain in the project are related to polar regions and their interactions with lower latitudes.
 
 In this framework, applications are open for the following position:
