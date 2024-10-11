@@ -23,7 +23,7 @@ The Junior Professor shall thematically and methodically enhance the existing ca
 
 The successful applicant should have a university degree in mathematics, natural sciences or engineering and a PhD in physical oceanography, climate sciences, physics, mathematics or marine data science and a publication record in physical oceanography or climate sciences. Experience in obtaining third party funding and teaching is an advantage.
 
-Please refer to the recruitment requirements of § 64 of the Higher Education Act of the State of Schleswig-Holstein. After successful evaluation of the first phase of the junior professorship it is the aim to extend the temporary civil servant status for another period of two years (second phase). More information can be found at www.berufungen.uni-kiel.de (in German).
+Please refer to the recruitment requirements of Paragraph 64 of the Higher Education Act of the State of Schleswig-Holstein. After successful evaluation of the first phase of the junior professorship it is the aim to extend the temporary civil servant status for another period of two years (second phase). More information can be found at www.berufungen.uni-kiel.de (in German).
 
 For additional information about the position and the research unit please contact Prof. Dr. Arne Biastoch (abiastoch@geomar.de).
 Kiel University and GEOMAR Helmholtz Centre for Ocean Research Kiel are striving to increase the number of female scientists in research and teaching and therefore expressly encourages qualified women to apply. Women will be given priority if their aptitude, qualifications and professional performance are of equal value.
