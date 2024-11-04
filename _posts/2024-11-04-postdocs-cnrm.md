@@ -11,21 +11,21 @@ Position Details:
 
 We are recruiting for the following research areas:
 
-    Investigating Ocean-Sea Ice-Atmosphere Feedbacks in Antarctica to Understand Self-Sustained Changes in Sea Ice
+- Investigating Ocean-Sea Ice-Atmosphere Feedbacks in Antarctica to Understand Self-Sustained Changes in Sea Ice
 
-    The Future Evolution of Global Ocean Overturning Cells at Different Global Warming Levels
+- The Future Evolution of Global Ocean Overturning Cells at Different Global Warming Levels
 
 For more information, please refer to the detailed project descriptions below.
 
 Position Highlights:
 
-    Employer: Sorbonne Université (Paris)
+- Employer: Sorbonne Université (Paris)
 
-    Location: CNRM (Centre National de Recherches Météorologiques), Météo-France, Toulouse, France
+- Location: CNRM (Centre National de Recherches Météorologiques), Météo-France, Toulouse, France
 
-    Research Environment: CNRM offers outstanding computational resources, an active scientific community, and an environment conducive to groundbreaking climate research. Toulouse offers a dynamic, culturally rich environment with a high quality of life. The successful candidates will work alongside an active, diverse group of experienced scientists and early-career researchers dedicated to climate research. CNRM’s vibrant research community provides ample opportunity for professional development and collaboration across disciplines.
+- Research Environment: CNRM offers outstanding computational resources, an active scientific community, and an environment conducive to groundbreaking climate research. Toulouse offers a dynamic, culturally rich environment with a high quality of life. The successful candidates will work alongside an active, diverse group of experienced scientists and early-career researchers dedicated to climate research. CNRM’s vibrant research community provides ample opportunity for professional development and collaboration across disciplines.
 
-Application Deadline: November 25, 2024
+**Application Deadline: November 25, 2024**
 
 We look forward to receiving your application!
 
@@ -90,8 +90,11 @@ dynamic group of scientists, and early career scientist working in related field
 Application:
 
 To apply, please submit:
+
 ● A CV
+
 ● A brief cover letter outlining your research experience and interests
+
 ● Contact information for two academic references
 
 For inquiries, feel free to contact Jean-Baptiste Sallée at jean-baptiste.sallee@locean.ipsl.fr
@@ -155,7 +158,9 @@ Application:
 To apply, please submit:
 
 ● A CV
+
 ● A brief cover letter outlining your research experience and interests
+
 ● Contact information for two academic references
 
 For inquiries, feel free to contact Jean-Baptiste Sallée at jean-baptiste.sallee@locean.ipsl.f
