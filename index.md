@@ -18,6 +18,7 @@ The POLARIN project opened a [call](https://eu-polarin.eu/transnational-access-c
 
 ### Cruise opportunity
 There is an opportunity to join a research cruise aboard the R/V Marcus G. Langseth offshore southern Mexico in May/June 2025. Please see the [call for participation](https://mailchi.mp/ldeo/langseth-mexico) for further details. The application deadline is November 1st, 2024.
+There is an opportunity to join the I09N research cruise aboard the University of Washington vessel R/V Thomas G. Thompson from Fremantle, Australia to Phuket, Thailand in mid-March for about 6 weeks. Please see the [call for participation](https://usgoship.ucsd.edu/2024/10/07/go-ship-i09n-student-cruise-opportunity-deadline-nov-4-2024/?s=03) for further details. The application deadline is November 4th, 2024.
 
 ### SOLAS Open Science conference 2024
 This [conference](https://solas-osc-2024.nio.res.in) will take place in Goa, India, from 10 to 14 of Novemver 2024. Travel financial support can be obtained.
