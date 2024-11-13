@@ -19,7 +19,7 @@ support the UN Ocean Decade initiative.
 Challenge 3: Sustainably feed the global population
 Challenge 4: Develop a sustainable, resilient and equitable ocean economy
 Challenge 6: Increase community resilience to ocean hazards.
-For more information and registration, please visit the EU Ocean Data webinar series website, where you can also find recordings and presentations from the previous two webinars, as well as a list of useful technical resources: (https://eudata4oceandecade.eu/)
+For more information and registration, please visit the EU Ocean Data webinar series website, where you can also find recordings and presentations from the previous two webinars, as well as a list of useful technical resources: [https://eudata4oceandecade.eu](https://eudata4oceandecade.eu/)
 
 ### Transnational access call 2024 for using polar research infrastructure
 The POLARIN project opened a [call](https://eu-polarin.eu/transnational-access-call-2024/) for access to major polar research infrastructure, including major research vessels. This call also targets early career scientists. Please refer to the [call](https://eu-polarin.eu/transnational-access-call-2024/) for further details.
