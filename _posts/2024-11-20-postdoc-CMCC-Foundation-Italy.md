@@ -24,11 +24,11 @@ To learn more about this opportunity and submit your application, please refer t
 ## ROLE AND RESPONSABILITIES
 The selected candidates will engage in ocean modelling research and forecasting activities, emphasizing the link between global and coastal processes in a seamless continuum approach. As an integral part of our team, this position will involve:
 
-    Developing and implementing circulation and wave spectral models, especially for high-resolution modelling on unstructured grids, using downscaling approach.
-    Conducting research on coastal and ocean processes, with a particular focus on extreme events and their mitigation and adaptation strategies in response to climate change.
-    Building and calibrating the digital twin of the coastal ocean by integrating observational datasets, enhancing the physical complexity of our coupled numerical models, and studying related interactions.
-    Focusing on short-term forecasting and hindcast modelling with both deterministic and ensemble approaches.
-    Processing and interpreting data from simulations and observations, supporting advancements in coastal modelling and forecasting applications.
+* Developing and implementing circulation and wave spectral models, especially for high-resolution modelling on unstructured grids, using downscaling approach.
+* Conducting research on coastal and ocean processes, with a particular focus on extreme events and their mitigation and adaptation strategies in response to climate change.
+* Building and calibrating the digital twin of the coastal ocean by integrating observational datasets, enhancing the physical complexity of our coupled numerical models, and studying related interactions.
+* Focusing on short-term forecasting and hindcast modelling with both deterministic and ensemble approaches.
+* Processing and interpreting data from simulations and observations, supporting advancements in coastal modelling and forecasting applications.
 
 
 ## REQUIREMENTS
