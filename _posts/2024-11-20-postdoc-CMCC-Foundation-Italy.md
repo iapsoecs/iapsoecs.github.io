@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Postdoc or Jr Scientist in IESP, CMCC Foundation (Lecce, Italy)
-subtitle: CMCC Foundation
+title: Postdoc or Jr Scientist in ocean modelling (Lecce, Italy)
+subtitle: IESP, CMCC Foundation
 tags: [postdoc, Italy, numerical modelling, digital twin]
 comments: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Postdoc or Jr Scientist in IESP, CMCC Foundation (Bologna, Italy)
-subtitle: CMCC Foundation
+title: Postdoc or Jr Scientist in data assimilation (Bologna, Italy)
+subtitle:  IESP,CMCC Foundation
 tags: [postdoc, Italy, data assimilation]
 comments: false
 ---
