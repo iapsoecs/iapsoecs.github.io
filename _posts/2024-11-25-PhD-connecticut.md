@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PhD position in Physical Oceanography (Connecticut, USA)
-subtitle: University of Reading
+subtitle: University of Connecticut
 tags: [PhD, USA, physical oceanography]
 comments: false
 ---
