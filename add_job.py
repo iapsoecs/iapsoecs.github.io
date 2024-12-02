@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+
+"""
+README
+
+just execute this file, answer the questions and it will create the post.
+"""
+
 from datetime import datetime
 from pathlib import Path
 import sys
