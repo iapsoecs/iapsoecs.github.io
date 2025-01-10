@@ -8,6 +8,7 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 
 ## Contents
 
+* [Issue 11, January 2025](#january-2025-issue-11)
 * [Issue 10, May 2024](#may-2024-issue-10)
 * [Issue 9, June 2023](#june-2023-issue-9)
 * [Issue 8, February 2023](#february-2023-issue-8)
@@ -18,6 +19,17 @@ Please [fill in this form](https://www.iapsoecs.org/joinus) to join our mailing 
 * [Issue 3, April 2020](#april-2020-issue-3)
 * [Issue 2, November 2019](#november-2019-issue-2)
 * [Issue 1, July 2019](#july-2020-issue-1)
+
+
+### January 2025 Issue 11
+<div class="news-container">
+  <a title="IAPSO ECS Newsletter, 2025, 01" href="/uploads/newsletter/iapsoecs_newsletter_2025_01.pdf" target='_blank'>
+  <img src="/uploads/newsletter/iapsoecs_newsletter_2025_01_thumbnail.png" alt="IAPSO ECS Newsletter, 2025, 01" class="news-image">
+  <div class="news-overlay">
+    <div class="news-text">Click to download pdf (1.5 MB)</div>
+  </div>
+  </a>
+</div>
 
 ### May 2024 Issue 10
 <div class="news-container">
