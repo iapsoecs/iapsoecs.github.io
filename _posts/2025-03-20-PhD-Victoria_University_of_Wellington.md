@@ -13,7 +13,7 @@ Assessing the impact of changing sea ice conditions on phytoplankton blooms in t
 
  
 
-Further information, including the application process, is available here: Assessing the impact of changing sea ice conditions on phytoplankton blooms in the Ross Sea Marine Protected Area from ice core and aerosol observations | Scholarships | Te Herenga Waka—Victoria University of Wellington
+Further information, including the application process, is available here: https://www.wgtn.ac.nz/scholarships/current/assessing-the-impact-of-changing-sea-ice-conditions-on-phytoplankton-blooms-in-the-ross-sea-marine-protected-area-from-ice-core-and-aerosol-observations/_recache 
 
  
 
