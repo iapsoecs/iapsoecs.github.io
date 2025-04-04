@@ -44,3 +44,4 @@ We expressly welcome applications from people with a migration background. Appli
 
 Applications with the usual documents (curriculum vitae, list of publications, list of courses taught, copies of academic certificates, 2 references, third-party funding, research and teaching concept (together max. 6 pages)) along with your private and business address, telephone number and e-mail address should be sent (preferably in electronic form in a single pdf-file) to the following address by 15 May 2025: The Dean, Faculty of Mathematics and Natural Sciences, Kiel University, 24098 Kiel, Germany, (berufungen(at)mnf.uni-kiel.de).
 
+https://www.geomar.de/en/karriere/job-single-en/juniorprofessur-w-1-fuer-marine-meteorologie
