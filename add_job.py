@@ -23,7 +23,9 @@ description = "".join(sys.stdin.readlines())
 
 # filename
 filename = unidecode(
-    f"_posts/{date}-{job}-{lab}.md".replace(" ", "_").replace("'", "_")
+    f"_posts/{date}-{job}-{lab}.md".replace(" ", "_")
+    .replace("'", "_")
+    .replace("/", "_")
 )
 while Path(filename).exists():
     filename += "_another"
