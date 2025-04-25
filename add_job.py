@@ -27,7 +27,7 @@ filename = unidecode(
     + f"{date}-{job}-{lab}.md".replace(" ", "_").replace("'", "_").replace("/", "_")
 )
 while Path(filename).exists():
-    filename += "_another"
+    filename += "_another.md"
 
 to_write = f"""---
 layout: post
