@@ -17,3 +17,4 @@ Responsibilities:
 * Fieldwork: Potential opportunities for additional fieldwork in marine-terminating glacier environments around Svalbard
 * Dissemination: Publish results in leading scientific journals and present findings at international conferences. 
 
+https://su.varbi.com/en/what:job/jobID:813440
