@@ -17,6 +17,7 @@ subtitle: Links to helpful websites and resources for Early Career Scientists
 * [Early Career Scientists Network of the International Indian Ocean Expedition 2 (ECSN IIOE-2)](https://iioe-2.incois.gov.in/ecsn/about.jsp)
 * [European Marine Board (EMB) Early Career Ocean Professionals' Network](https://www.marineboard.eu/emb-early-career-ocean-professionals-network)
 * [Western Indian Ocean Early Career Scientists Network (WIO-ECSN)](https://wio-ecsn.wiomsa.org/)
+* [IUGG Early-Career Scientist Network](https://iapso-ocean.org/): The wide ECS network of the IUGG.
 
 
 ## Women in ocean science
