@@ -28,7 +28,8 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Malin Ödalen (Germany, chairperson):</strong>
-	Malin is a post-doctoral researcher at the GEOMAR Helmholtz Centre for Ocean Research in Kiel, Germany, working in the SO-CHIC project. She is a modeller with a PhD from Stockholm University (2019) who is interested in physical and biogeochemical aspects of the ocean’s role in the climate system. Her research topics are Southern Ocean processes, and global ocean carbon storage across climate states. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.</p>
+	Malin is a permanent scientist at the Potsdam Institute for Climate Impact Research. She is a modeller with a PhD from Stockholm University (2019) who is interested in physical and biogeochemical aspects of the ocean’s role in the climate system. Her research topics are Southern Ocean processes, and global ocean carbon storage across climate states. Passionate about outdoor activities, live concerts, world politics, and her home region in Sweden north of the Artic Circle.
+    </p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.researchgate.net/profile/Malin_Oedalen" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/malin.jpg" alt="Malin Ödalen" class="profile-image"/></a>
@@ -40,76 +41,11 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Danielle Su (France, member):</strong>
-	Danielle started her journey as an oceanographer moving from one island (Singapore) to another (Australia) and recently completed her PhD at The University of Western Australia investigating flow topography interactions around islands in the Northern Indian Ocean. Now at the LOCEAN Laboratory in Paris, she is delving into the world of biogeochemistry. Enjoys hiking and good wine, especially if done together.</p>
+	<p><strong>Cathy Wimart-Rousseau (Germany, chairperson):</strong>
+	Cathy is a post-doctoral researcher in chemical oceanography at GEOMAR (Kiel, Germany). Her research focuses on the marine carbon cycle as well as the CO2 exchanges at the air-sea interface. For this purpose, she deals with in situ data measured by numerous autonomous platforms (ex. BGC-Argo floats) and works on the enhancement of float-pH data QC methods. She collaborates internationally in both the EA-RISE and EuroSea projects. When she is not onboarding a research vessel to collect data or deploy a float, Cathy enjoys reading, running, and outdoor activities in general.</p>
 	</td>
 	<td width="24%" class="profile-cell">
-	<img src="https://www.iapsoecs.org/uploads/bio_photos/danielle.jpg" alt="Danielle Su" class="profile-image"/>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Kay McMonigal (USA, member):</strong>
-	 Kay is an Assistant Professor of Oceanography at University of Alaska Fairbanks. His work focuses on how ocean currents are changing due to climate change, and the impacts this has on local, regional, and global climate. For a healthy work-life balance, Kay enjoys running and reading.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="http://kmcmonigal.com" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/kay.jpg" alt="Kay McMonigal" class="profile-image"/></a>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Casimir de Lavergne (France, member):</strong>
-	Casimir is a physical oceanographer at the LOCEAN Laboratory in Paris. He studies the climatic functions of the deep and polar oceans, focusing on turbulence and mixing in the ocean abyss. Long runs and long nights out keep him in balance.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="https://www.researchgate.net/profile/Casimir_De_Lavergne" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/casimir.jpg" alt="Casimir de Lavergne" class="profile-image"/></a>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Jesse Cusack (USA, member):</strong>
-	Jesse is an Assistant Professor at Oregon State University. He researches small scale physical processes in the ocean, such as turbulence, internal waves, as well as turbulent processes at the ice-ocean boundary. He greatly enjoys going to sea to collect observations, and while on land spends his free time rock climbing or hiking.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="https://jessecusack.github.io/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/jesse.jpg" alt="Jesse Cusack" class="profile-image"/></a>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Prasad Padalkar (India, member):</strong>
-	Prasad is a research scholar working with Prof. Parthasarthi Chakraborty at the Indian Institute of Technology, Kharagpur, India. His research deals with understanding the biogeochemical cycling of mercury in tropical coastal environments. In particular, he investigates how the elemental form of mercury controls mercury pollution and the effect of climate change stressors on cycling of mercury in coastal  waters.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<img src="https://www.iapsoecs.org/uploads/bio_photos/prasad.jpg" alt="Prasad Padalkar" class="profile-image"/>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Alex Haumann (Germany, member):</strong>
-	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between ocean, ice, atmosphere, and the global carbon and water cycles. He received his PhD from ETH Zurich (2016). Until 2022, he worked as Associate Research Scholar at Princeton University and he is a BAS honorary researcher. Since 2023, he is a research group leader at the Alfred Wegener Institute and a Professor at the Ludwig-Maximilian-Universtiy Munich. Alex enjoys cooking, hiking, travelling, snowboarding, and the outdoors in general.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="https://www.ahaumann.net" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image"/></a>
+	<img src="../uploads/bio_photos/cathy.jpg" alt="Cathy Wimart-Rousseau" class="profile-image"/>
 	</td>
 	</tr>
 </table>
@@ -144,21 +80,9 @@ bigimg:
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
-	<p><strong>Cathy Wimart-Rousseau (Germany, member):</strong>
-	Cathy is a post-doctoral researcher in chemical oceanography at GEOMAR (Kiel, Germany). Her research focuses on the marine carbon cycle as well as the CO2 exchanges at the air-sea interface. For this purpose, she deals with in situ data measured by numerous autonomous platforms (ex. BGC-Argo floats) and works on the enhancement of float-pH data QC methods. She collaborates internationally in both the EA-RISE and EuroSea projects. When she is not onboarding a research vessel to collect data or deploy a float, Cathy enjoys reading, running, and outdoor activities in general.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<img src="../uploads/bio_photos/cathy.jpg" alt="Cathy Wimart-Rousseau" class="profile-image"/>
-	</td>
-	</tr>
-</table>
-
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
 	<p><strong>Aditya Narayanan (UK, member):</strong>
-	Aditya Narayanan obtained his Ph.D. studying Antarctic marginal sea watermasses from the Department of Ocean Engineering at the Indian Institute of Technology Madras in 2020. He then worked on Southern Ocean polynyas as a postdoctoral researcher at the Department of Marine Sciences, University of Gothenburg Sweden until recently. He works now as a postdoctoral researcher at the Faculty of Environmental and Life Sciences, University of Southampton. He studies oceanic heat transport towards the Amundsen Sea. His research interests include Southern Ocean dynamics, ice-ocean interaction, and oceanic heat transport. Trail running is one of his favorite activities throughout the year!</p>
+	Aditya is a physical oceanographe primarily interested in ocean - sea ice - cryosphere interactions in Antarctica. He enjoys reading and writing, and he is a aspiring trail runner!
+    </p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://adityarn.github.io/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/aditya.jpg" alt="Aditya Narayanan" class="profile-image"/></a>
@@ -167,8 +91,27 @@ bigimg:
 </table>
 
 
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Romain Caneill (France, member):</strong>
+    Romain is a post-doctoral researcher at IGE in Grenoble, France. He is working in the SASIP project. He graduated with a PhD from Gothenburg University (2024) in Sweden in physical oceanography: he looked at the role of buoyancy forcing and equation of state in shaping the upper ocean stratification. He is now exploring the dynamics of sea ice. He is a free software advocate, a climber, a guitarist, and a father of 3 boys.
+    </p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://romaincaneill.fr" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/romain.jpg" alt="Romain Caneill" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+<!-- missing
+* Leonard Borchert
+* Valentina Volkova
+-->
+
 ## Former committee members
 
+In alphabetical order:
 
 <table class="profile-tab">
 	<tr  class="profile-cell">
@@ -178,6 +121,18 @@ bigimg:
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.noc.ac.uk/people/alsf" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alejandra.jpg" alt="Alejandra Sanchez-Franks " class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Alex Haumann (Germany, member):</strong>
+	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between ocean, ice, atmosphere, and the global carbon and water cycles. He received his PhD from ETH Zurich (2016). Until 2022, he worked as Associate Research Scholar at Princeton University and he is a BAS honorary researcher. Since 2023, he is a research group leader at the Alfred Wegener Institute and a Professor at the Ludwig-Maximilian-Universtiy Munich. Alex enjoys cooking, hiking, travelling, snowboarding, and the outdoors in general.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://www.ahaumann.net" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
@@ -194,3 +149,67 @@ bigimg:
 	</td>
 	</tr>
 </table>
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Casimir de Lavergne (France, member):</strong>
+	Casimir is a physical oceanographer at the LOCEAN Laboratory in Paris. He studies the climatic functions of the deep and polar oceans, focusing on turbulence and mixing in the ocean abyss. Long runs and long nights out keep him in balance.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://www.researchgate.net/profile/Casimir_De_Lavergne" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/casimir.jpg" alt="Casimir de Lavergne" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Danielle Su (France, member):</strong>
+	Danielle started her journey as an oceanographer moving from one island (Singapore) to another (Australia) and recently completed her PhD at The University of Western Australia investigating flow topography interactions around islands in the Northern Indian Ocean. Now at the LOCEAN Laboratory in Paris, she is delving into the world of biogeochemistry. Enjoys hiking and good wine, especially if done together.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<img src="https://www.iapsoecs.org/uploads/bio_photos/danielle.jpg" alt="Danielle Su" class="profile-image"/>
+	</td>
+	</tr>
+</table>
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Jesse Cusack (USA, member):</strong>
+	Jesse is an Assistant Professor at Oregon State University. He researches small scale physical processes in the ocean, such as turbulence, internal waves, as well as turbulent processes at the ice-ocean boundary. He greatly enjoys going to sea to collect observations, and while on land spends his free time rock climbing or hiking.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://jessecusack.github.io/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/jesse.jpg" alt="Jesse Cusack" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Kay McMonigal (USA, member):</strong>
+	 Kay is an Assistant Professor of Oceanography at University of Alaska Fairbanks. His work focuses on how ocean currents are changing due to climate change, and the impacts this has on local, regional, and global climate. For a healthy work-life balance, Kay enjoys running and reading.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="http://kmcmonigal.com" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/kay.jpg" alt="Kay McMonigal" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Prasad Padalkar (India, member):</strong>
+	Prasad is a research scholar working with Prof. Parthasarthi Chakraborty at the Indian Institute of Technology, Kharagpur, India. His research deals with understanding the biogeochemical cycling of mercury in tropical coastal environments. In particular, he investigates how the elemental form of mercury controls mercury pollution and the effect of climate change stressors on cycling of mercury in coastal  waters.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<img src="https://www.iapsoecs.org/uploads/bio_photos/prasad.jpg" alt="Prasad Padalkar" class="profile-image"/>
+	</td>
+	</tr>
+</table>
+
+
