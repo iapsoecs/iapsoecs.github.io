@@ -28,7 +28,8 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Malin Ödalen (Germany, chairperson):</strong>
-	Malin is a post-doctoral researcher at the GEOMAR Helmholtz Centre for Ocean Research in Kiel, Germany, working in the SO-CHIC project. She is a modeller with a PhD from Stockholm University (2019) who is interested in physical and biogeochemical aspects of the ocean’s role in the climate system. Her research topics are Southern Ocean processes, and global ocean carbon storage across climate states. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.</p>
+	Malin is a permanent scientist at the Potsdam Institute for Climate Impact Research. She is a modeller with a PhD from Stockholm University (2019) who is interested in physical and biogeochemical aspects of the ocean’s role in the climate system. Her research topics are Southern Ocean processes, and global ocean carbon storage across climate states. Passionate about outdoor activities, live concerts, world politics, and her home region in Sweden north of the Artic Circle.
+    </p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.researchgate.net/profile/Malin_Oedalen" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/malin.jpg" alt="Malin Ödalen" class="profile-image"/></a>
@@ -158,10 +159,25 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Aditya Narayanan (UK, member):</strong>
-	Aditya is a physical oceanographe primarily interested in ocean - sea ice - cryosphere interactions in Antarctica. He enjoys reading and writing, and he is a aspiring trail runner!</p>
+	Aditya is a physical oceanographe primarily interested in ocean - sea ice - cryosphere interactions in Antarctica. He enjoys reading and writing, and he is a aspiring trail runner!
+    </p>
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://adityarn.github.io/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/aditya.jpg" alt="Aditya Narayanan" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Romain Caneill (France, member):</strong>
+    Romain is a post-doctoral researcher at IGE in Grenoble, France. He is working in the SASIP project. He graduated with a PhD from Gothenburg University (2024) in Sweden in physical oceanography: he looked at the role of buoyancy forcing and equation of state in shaping the upper ocean stratification. He is now exploring the dynamics of sea ice. He is a free software advocate, a climber, a guitarist, and a father of 3 boys.
+    </p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://romaincaneill.fr" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/romain.jpg" alt="Romain Caneill" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
@@ -191,18 +207,6 @@ bigimg:
 	</td>
 	<td width="24%" class="profile-cell">
 	<a href="https://www.prl.res.in/~arvinds/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/arvind.jpg" alt="Arvind Singh" class="profile-image"/></a>
-	</td>
-	</tr>
-</table>
-
-<table class="profile-tab">
-	<tr  class="profile-cell">
-	<td width="73%" class="profile-cell">
-	<p><strong>Romain Caneill (France, member):</strong>
-    Romain is a post-doctoral researcher at IGE in Grenoble, France. He is working in the SASIP project. He graduated with a PhD from Gothenburg University (2024) in Sweden in physical oceanography: he looked at the role of buoyancy forcing and equation of state in shaping the upper ocean stratification. He is now exploring the dynamics of sea ice. He is a free software advocate, a climber, a guitarist, and a father of 3.</p>
-	</td>
-	<td width="24%" class="profile-cell">
-	<a href="https://romaincaneill.fr" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/romain.jpg" alt="Romain Caneill" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
