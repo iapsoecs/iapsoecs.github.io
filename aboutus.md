@@ -194,3 +194,15 @@ bigimg:
 	</td>
 	</tr>
 </table>
+
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Romain Caneill (France, member):</strong>
+    Romain is a post-doctoral researcher at IGE in Grenoble, France. He is working in the SASIP project. He graduated with a PhD from Gothenburg University (2024) in Sweden in physical oceanography: he looked at the role of buoyancy forcing and equation of state in shaping the upper ocean stratification. He is now exploring the dynamics of sea ice. He is a free software advocate, a climber, a guitarist, and a father of 3.</p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="https://romaincaneill.fr" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/romain.jpg" alt="Romain Caneill" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
