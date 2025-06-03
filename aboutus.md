@@ -55,10 +55,11 @@ bigimg:
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
 	<p><strong>Mujeeb Akanbi Abdulfatai (Nigeria, member):</strong>
-	Mujeeb is a first-year PhD student working with Prof Maarten Buijsman at the Department of Marine Sciences, University of Southern Mississippi, USA. His work focuses on diagnosing internal waves in the Pacific Ocean. He recently concluded research on estimating the Ocean Heat Content along the Atlantic Ocean advised by Prof Peter Lemke. He enjoys going on research cruises, coding and watching soccer.</p>
+    Mujeeb is currently pursuing a Ph.D. in Marine Science (Physical Oceanography) at the University of Southern Mississippi, Stennis Space Center, USA. His background is deeply rooted in marine science, and he sees himself as an observational oceanographer with a touch of ocean modeling. His doctoral work focuses on diagnosing internal waves and their energetics—particularly the higher harmonics—using the global Hybrid Coordinate Ocean Model (HYCOM) and observational datasets. Mujeeb enjoys watching the full moon and its reflection on the sea, playing table tennis, and watching soccer.
+    </p>
 	</td>
 	<td width="24%" class="profile-cell">
-	<img src="../uploads/bio_photos/Mujeeb.png" alt="Mujeeb Akanbi Abdulfatai" class="profile-image"/>
+	<img src="../uploads/bio_photos/Mujeeb.jpg" alt="Mujeeb Akanbi Abdulfatai" class="profile-image"/>
 	</td>
 	</tr>
 </table>
