@@ -105,6 +105,19 @@ bigimg:
 	</tr>
 </table>
 
+<table class="profile-tab">
+	<tr  class="profile-cell">
+	<td width="73%" class="profile-cell">
+	<p><strong>Leonard Borchert (France, member):</strong>
+    Leo Borchert researches climate extremes, their seasonal to decadal predictability and interaction with society. He is particularly interested in the climate processes that give rise to climate extreme predictability, often residing in the ocean, and the interaction with stakeholders to distill processes by which his prediction information can have an impact on society. For example, Leo’s previous research focused on heat waves, storm surges, and dry spells. He obtained a PhD from the IMPRS for Earth System Modeling in Hamburg, held Postdoc positions at MPI in Hamburg and several IPSL laboratories in Paris, and now co-leads the Climate Extremes group at the Research Unit Sustainability and Climate Risk at the University of Hamburg, where he is currently also substituting for the Climate Extremes professorship. When he is not in front of a computer or in a lecture hall, Leo spends a lot of time with his son, enjoys music in all of its forms, and is a real story junky - good books and movies/TV shows are essential to him.
+    </p>
+	</td>
+	<td width="24%" class="profile-cell">
+	<a href="http://www.leoborchert.de/" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/leo.jpg" alt="Leo Borchert" class="profile-image"/></a>
+	</td>
+	</tr>
+</table>
+
 <!-- missing
 * Leonard Borchert
 * Valentina Volkova
