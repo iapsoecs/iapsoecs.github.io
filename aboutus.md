@@ -59,7 +59,7 @@ bigimg:
     </p>
 	</td>
 	<td width="24%" class="profile-cell">
-	<img src="../uploads/bio_photos/Mujeeb.jpg" alt="Mujeeb Akanbi Abdulfatai" class="profile-image"/>
+	<a href="https://www.researchgate.net/profile/Mujeeb-Abdulfatai/" target="_blank"><img src="../uploads/bio_photos/Mujeeb.jpg" alt="Mujeeb Akanbi Abdulfatai" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
