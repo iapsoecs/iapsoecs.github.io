@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Staff scientist position in Ocean Modeling (Boulder, USA)
-subtitle: [c]worthy
+subtitle: cworthy
 tags: [Staff Scientist, Ocean Modeling, USA]
 comments: false
 ---
-https://jobs.lever.co/convergentresearch/8a24b396-a802-447c-9ef5-baf5982e1b0a
 
 Staff Scientist, Ocean Modeling
 Boulder, CO[C]worthy – [C]worthy /Full Time /On-site
+
+
+https://jobs.lever.co/convergentresearch/8a24b396-a802-447c-9ef5-baf5982e1b0a
 
 # About [C]Worthy
 [C]Worthy is a Focused Research Organization operating in partnership with Convergent Research. We develop science-backed tools for Monitoring, Reporting, and Verification (MRV) by adapting advanced oceanographic models to quantify carbon removal and assess ecosystem impacts with scientific credibility. These tools are delivered through our open-source software platform, C-Star, which is designed to ensure ease-of-use, standardization, auditability, and transparency — foundations for building high-integrity CDR markets. We collaborate with early commercial actors in the carbon removal market to support research, provide robust MRV solutions, and shape effective standards. We are also maintaining and building strong connections within the research community to ensure that our tools evolve alongside the best available science and technology.
